@@ -1,0 +1,1410 @@
+[
+  {
+    "metadata": {
+      "sample_id": 112474,
+      "sample_name": "A0",
+      "sequence_unit_name": "10677.1.173017.TAAGGCCTATC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 882288,
+        "low_quality_removed": 172412,
+        "sequencing_adaptor_removed": 232,
+        "artifacts_removed": 174
+      },
+      "itagger_read_processing": {
+        "initial": 709470,
+        "merged": 348456,
+        "primer_trimmed": 337839,
+        "final": 337787,
+        "unique": 196659
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112475,
+      "sample_name": "B0",
+      "sequence_unit_name": "10677.1.173017.TTGTCGCACAA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 759044,
+        "low_quality_removed": 159322,
+        "sequencing_adaptor_removed": 214,
+        "artifacts_removed": 180
+      },
+      "itagger_read_processing": {
+        "initial": 599328,
+        "merged": 294230,
+        "primer_trimmed": 285337,
+        "final": 285239,
+        "unique": 181584
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112476,
+      "sample_name": "C0",
+      "sequence_unit_name": "10677.1.173017.AACTGTGCGTA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 586198,
+        "low_quality_removed": 124000,
+        "sequencing_adaptor_removed": 124,
+        "artifacts_removed": 104
+      },
+      "itagger_read_processing": {
+        "initial": 461970,
+        "merged": 226758,
+        "primer_trimmed": 219746,
+        "final": 219568,
+        "unique": 144968
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112477,
+      "sample_name": "D0",
+      "sequence_unit_name": "10677.1.173017.TGCGAACGTAT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 637654,
+        "low_quality_removed": 130018,
+        "sequencing_adaptor_removed": 134,
+        "artifacts_removed": 164
+      },
+      "itagger_read_processing": {
+        "initial": 507338,
+        "merged": 249132,
+        "primer_trimmed": 241556,
+        "final": 241483,
+        "unique": 153437
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112478,
+      "sample_name": "E0",
+      "sequence_unit_name": "10677.1.173017.CATCAGCGTGT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 753100,
+        "low_quality_removed": 158108,
+        "sequencing_adaptor_removed": 206,
+        "artifacts_removed": 192
+      },
+      "itagger_read_processing": {
+        "initial": 594594,
+        "merged": 291926,
+        "primer_trimmed": 283041,
+        "final": 282944,
+        "unique": 183897
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112479,
+      "sample_name": "F0",
+      "sequence_unit_name": "10677.1.173017.TTCAACAGGTG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 702344,
+        "low_quality_removed": 147056,
+        "sequencing_adaptor_removed": 11414,
+        "artifacts_removed": 162
+      },
+      "itagger_read_processing": {
+        "initial": 543712,
+        "merged": 266790,
+        "primer_trimmed": 259309,
+        "final": 259295,
+        "unique": 130012
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112480,
+      "sample_name": "G0",
+      "sequence_unit_name": "10677.1.173017.AGCGTGTCCAA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 873314,
+        "low_quality_removed": 175146,
+        "sequencing_adaptor_removed": 236,
+        "artifacts_removed": 182
+      },
+      "itagger_read_processing": {
+        "initial": 697750,
+        "merged": 342752,
+        "primer_trimmed": 333998,
+        "final": 333826,
+        "unique": 224186
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112481,
+      "sample_name": "A1",
+      "sequence_unit_name": "10677.1.173017.CCTGGATATAG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 710688,
+        "low_quality_removed": 156054,
+        "sequencing_adaptor_removed": 92,
+        "artifacts_removed": 174
+      },
+      "itagger_read_processing": {
+        "initial": 554368,
+        "merged": 272159,
+        "primer_trimmed": 264573,
+        "final": 264547,
+        "unique": 157357
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112482,
+      "sample_name": "B1",
+      "sequence_unit_name": "10677.1.173017.ATGACCATCGT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 649562,
+        "low_quality_removed": 137486,
+        "sequencing_adaptor_removed": 88,
+        "artifacts_removed": 182
+      },
+      "itagger_read_processing": {
+        "initial": 511806,
+        "merged": 250901,
+        "primer_trimmed": 244360,
+        "final": 244272,
+        "unique": 146365
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112483,
+      "sample_name": "C1",
+      "sequence_unit_name": "10677.1.173017.GCATGGCTCTA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 667772,
+        "low_quality_removed": 139856,
+        "sequencing_adaptor_removed": 138,
+        "artifacts_removed": 114
+      },
+      "itagger_read_processing": {
+        "initial": 527664,
+        "merged": 259101,
+        "primer_trimmed": 252045,
+        "final": 251863,
+        "unique": 162683
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112484,
+      "sample_name": "D1",
+      "sequence_unit_name": "10677.1.173017.TTGAACCAGCT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 630932,
+        "low_quality_removed": 134988,
+        "sequencing_adaptor_removed": 90,
+        "artifacts_removed": 204
+      },
+      "itagger_read_processing": {
+        "initial": 495650,
+        "merged": 243198,
+        "primer_trimmed": 236585,
+        "final": 236514,
+        "unique": 143228
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112485,
+      "sample_name": "E1",
+      "sequence_unit_name": "10677.1.173017.CCAGTGTATGC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 539116,
+        "low_quality_removed": 116904,
+        "sequencing_adaptor_removed": 104,
+        "artifacts_removed": 124
+      },
+      "itagger_read_processing": {
+        "initial": 421984,
+        "merged": 206966,
+        "primer_trimmed": 201144,
+        "final": 201056,
+        "unique": 124380
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112486,
+      "sample_name": "F1",
+      "sequence_unit_name": "10677.1.173017.TGCTACCATGA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 771212,
+        "low_quality_removed": 164810,
+        "sequencing_adaptor_removed": 136,
+        "artifacts_removed": 212
+      },
+      "itagger_read_processing": {
+        "initial": 606054,
+        "merged": 296654,
+        "primer_trimmed": 288644,
+        "final": 288589,
+        "unique": 162317
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112487,
+      "sample_name": "G1",
+      "sequence_unit_name": "10677.1.173017.ATGCGAGTATC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 772620,
+        "low_quality_removed": 161468,
+        "sequencing_adaptor_removed": 100,
+        "artifacts_removed": 154
+      },
+      "itagger_read_processing": {
+        "initial": 610896,
+        "merged": 299714,
+        "primer_trimmed": 291219,
+        "final": 291167,
+        "unique": 164501
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112488,
+      "sample_name": "A2",
+      "sequence_unit_name": "10677.1.173017.GTATCCATGCG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 971290,
+        "low_quality_removed": 214548,
+        "sequencing_adaptor_removed": 168,
+        "artifacts_removed": 196
+      },
+      "itagger_read_processing": {
+        "initial": 756378,
+        "merged": 369022,
+        "primer_trimmed": 359837,
+        "final": 359761,
+        "unique": 206868
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112489,
+      "sample_name": "B2",
+      "sequence_unit_name": "10677.1.173017.CTTGCTGAAGA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 605356,
+        "low_quality_removed": 129502,
+        "sequencing_adaptor_removed": 120,
+        "artifacts_removed": 128
+      },
+      "itagger_read_processing": {
+        "initial": 475606,
+        "merged": 231787,
+        "primer_trimmed": 226035,
+        "final": 225931,
+        "unique": 139245
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112490,
+      "sample_name": "C2",
+      "sequence_unit_name": "10677.1.173017.TCTAAGGCACG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 664166,
+        "low_quality_removed": 143730,
+        "sequencing_adaptor_removed": 154,
+        "artifacts_removed": 152
+      },
+      "itagger_read_processing": {
+        "initial": 520130,
+        "merged": 255007,
+        "primer_trimmed": 248813,
+        "final": 248712,
+        "unique": 165714
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112491,
+      "sample_name": "D2",
+      "sequence_unit_name": "10677.1.173017.AGGCGACCTTA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 634912,
+        "low_quality_removed": 137318,
+        "sequencing_adaptor_removed": 86,
+        "artifacts_removed": 116
+      },
+      "itagger_read_processing": {
+        "initial": 497392,
+        "merged": 242355,
+        "primer_trimmed": 236402,
+        "final": 236340,
+        "unique": 113485
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112492,
+      "sample_name": "E2",
+      "sequence_unit_name": "10677.1.173017.TCAGGCGCTTA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 715950,
+        "low_quality_removed": 152558,
+        "sequencing_adaptor_removed": 148,
+        "artifacts_removed": 182
+      },
+      "itagger_read_processing": {
+        "initial": 563062,
+        "merged": 275571,
+        "primer_trimmed": 268614,
+        "final": 268518,
+        "unique": 160459
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112493,
+      "sample_name": "F2",
+      "sequence_unit_name": "10677.1.173017.CAGACATTGCG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 616422,
+        "low_quality_removed": 126116,
+        "sequencing_adaptor_removed": 70,
+        "artifacts_removed": 186
+      },
+      "itagger_read_processing": {
+        "initial": 490050,
+        "merged": 239291,
+        "primer_trimmed": 233293,
+        "final": 233250,
+        "unique": 128290
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112494,
+      "sample_name": "G2",
+      "sequence_unit_name": "10677.1.173017.GGTCCAACTAG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 866288,
+        "low_quality_removed": 179416,
+        "sequencing_adaptor_removed": 114,
+        "artifacts_removed": 188
+      },
+      "itagger_read_processing": {
+        "initial": 686570,
+        "merged": 336643,
+        "primer_trimmed": 328232,
+        "final": 328171,
+        "unique": 187673
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112495,
+      "sample_name": "B4",
+      "sequence_unit_name": "10677.1.173017.CTACAATGTCG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 677570,
+        "low_quality_removed": 159148,
+        "sequencing_adaptor_removed": 584,
+        "artifacts_removed": 154
+      },
+      "itagger_read_processing": {
+        "initial": 517684,
+        "merged": 243864,
+        "primer_trimmed": 238079,
+        "final": 237936,
+        "unique": 128282
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112496,
+      "sample_name": "C4",
+      "sequence_unit_name": "10677.1.173017.AACAGGTTCGC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 721604,
+        "low_quality_removed": 179632,
+        "sequencing_adaptor_removed": 164,
+        "artifacts_removed": 186
+      },
+      "itagger_read_processing": {
+        "initial": 541622,
+        "merged": 236542,
+        "primer_trimmed": 230419,
+        "final": 230320,
+        "unique": 125872
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112497,
+      "sample_name": "E4",
+      "sequence_unit_name": "10677.1.173017.ACACGGTGTCT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 902642,
+        "low_quality_removed": 203640,
+        "sequencing_adaptor_removed": 166,
+        "artifacts_removed": 184
+      },
+      "itagger_read_processing": {
+        "initial": 698652,
+        "merged": 339447,
+        "primer_trimmed": 330735,
+        "final": 330662,
+        "unique": 178617
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112498,
+      "sample_name": "F4",
+      "sequence_unit_name": "10677.1.173017.GACGCTAGTTC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 525650,
+        "low_quality_removed": 108846,
+        "sequencing_adaptor_removed": 108,
+        "artifacts_removed": 128
+      },
+      "itagger_read_processing": {
+        "initial": 416568,
+        "merged": 194400,
+        "primer_trimmed": 189611,
+        "final": 189531,
+        "unique": 91593
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112499,
+      "sample_name": "G4",
+      "sequence_unit_name": "10677.1.173017.GATAGTGCCAC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 880496,
+        "low_quality_removed": 189244,
+        "sequencing_adaptor_removed": 172,
+        "artifacts_removed": 166
+      },
+      "itagger_read_processing": {
+        "initial": 690914,
+        "merged": 336371,
+        "primer_trimmed": 327754,
+        "final": 327704,
+        "unique": 180978
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112500,
+      "sample_name": "A8",
+      "sequence_unit_name": "10677.1.173017.ATACTTCGCAG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 387538,
+        "low_quality_removed": 99984,
+        "sequencing_adaptor_removed": 4580,
+        "artifacts_removed": 78
+      },
+      "itagger_read_processing": {
+        "initial": 282896,
+        "merged": 126734,
+        "primer_trimmed": 123826,
+        "final": 123822,
+        "unique": 55593
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112501,
+      "sample_name": "B8",
+      "sequence_unit_name": "10677.1.173017.GAATCTTCGAG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 361194,
+        "low_quality_removed": 95698,
+        "sequencing_adaptor_removed": 2228,
+        "artifacts_removed": 88
+      },
+      "itagger_read_processing": {
+        "initial": 263180,
+        "merged": 112916,
+        "primer_trimmed": 110164,
+        "final": 110133,
+        "unique": 61757
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112502,
+      "sample_name": "D8",
+      "sequence_unit_name": "10677.1.173017.TGAATAGTCCG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 571022,
+        "low_quality_removed": 128494,
+        "sequencing_adaptor_removed": 58,
+        "artifacts_removed": 138
+      },
+      "itagger_read_processing": {
+        "initial": 442332,
+        "merged": 211084,
+        "primer_trimmed": 205816,
+        "final": 205766,
+        "unique": 106982
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112503,
+      "sample_name": "E8",
+      "sequence_unit_name": "10677.1.173017.TTAGCGTCACG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 657256,
+        "low_quality_removed": 173652,
+        "sequencing_adaptor_removed": 262,
+        "artifacts_removed": 174
+      },
+      "itagger_read_processing": {
+        "initial": 483168,
+        "merged": 217195,
+        "primer_trimmed": 211724,
+        "final": 211687,
+        "unique": 101071
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112504,
+      "sample_name": "F8",
+      "sequence_unit_name": "10677.1.173017.ACTGTCGAAGC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 863530,
+        "low_quality_removed": 179974,
+        "sequencing_adaptor_removed": 136,
+        "artifacts_removed": 170
+      },
+      "itagger_read_processing": {
+        "initial": 683250,
+        "merged": 330313,
+        "primer_trimmed": 320084,
+        "final": 320051,
+        "unique": 154961
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112505,
+      "sample_name": "G8",
+      "sequence_unit_name": "10677.1.173017.CTAGTCAGCTG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 843890,
+        "low_quality_removed": 199166,
+        "sequencing_adaptor_removed": 240,
+        "artifacts_removed": 228
+      },
+      "itagger_read_processing": {
+        "initial": 644256,
+        "merged": 310355,
+        "primer_trimmed": 301294,
+        "final": 301242,
+        "unique": 168460
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112506,
+      "sample_name": "A16",
+      "sequence_unit_name": "10677.1.173017.GTCCGCTGAAT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 651532,
+        "low_quality_removed": 135680,
+        "sequencing_adaptor_removed": 34,
+        "artifacts_removed": 112
+      },
+      "itagger_read_processing": {
+        "initial": 515706,
+        "merged": 244674,
+        "primer_trimmed": 237527,
+        "final": 237515,
+        "unique": 115728
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112507,
+      "sample_name": "B16",
+      "sequence_unit_name": "10677.1.173017.GAACACTTCTG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 593758,
+        "low_quality_removed": 154026,
+        "sequencing_adaptor_removed": 124,
+        "artifacts_removed": 150
+      },
+      "itagger_read_processing": {
+        "initial": 439458,
+        "merged": 181106,
+        "primer_trimmed": 175689,
+        "final": 175656,
+        "unique": 96242
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112508,
+      "sample_name": "C16",
+      "sequence_unit_name": "10677.1.173017.TGTCGGCTACA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 521740,
+        "low_quality_removed": 152596,
+        "sequencing_adaptor_removed": 24,
+        "artifacts_removed": 110
+      },
+      "itagger_read_processing": {
+        "initial": 369010,
+        "merged": 148234,
+        "primer_trimmed": 143677,
+        "final": 143665,
+        "unique": 66124
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112509,
+      "sample_name": "D16",
+      "sequence_unit_name": "10677.1.173017.GTAGCAACGTC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 684474,
+        "low_quality_removed": 142914,
+        "sequencing_adaptor_removed": 158,
+        "artifacts_removed": 140
+      },
+      "itagger_read_processing": {
+        "initial": 541262,
+        "merged": 259862,
+        "primer_trimmed": 252064,
+        "final": 251924,
+        "unique": 111641
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112510,
+      "sample_name": "E16",
+      "sequence_unit_name": "10677.1.173017.GCCTTAAGCGA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 879488,
+        "low_quality_removed": 212958,
+        "sequencing_adaptor_removed": 112,
+        "artifacts_removed": 216
+      },
+      "itagger_read_processing": {
+        "initial": 666202,
+        "merged": 301979,
+        "primer_trimmed": 293364,
+        "final": 293338,
+        "unique": 132794
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112511,
+      "sample_name": "F16",
+      "sequence_unit_name": "10677.1.173017.GACTTATAGGC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 489692,
+        "low_quality_removed": 110032,
+        "sequencing_adaptor_removed": 12,
+        "artifacts_removed": 110
+      },
+      "itagger_read_processing": {
+        "initial": 379538,
+        "merged": 175015,
+        "primer_trimmed": 169341,
+        "final": 169329,
+        "unique": 78652
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112512,
+      "sample_name": "G16",
+      "sequence_unit_name": "10677.1.173017.TTAACGGCTGA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 744736,
+        "low_quality_removed": 188270,
+        "sequencing_adaptor_removed": 130,
+        "artifacts_removed": 178
+      },
+      "itagger_read_processing": {
+        "initial": 556158,
+        "merged": 259513,
+        "primer_trimmed": 253008,
+        "final": 252966,
+        "unique": 144674
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112513,
+      "sample_name": "C24",
+      "sequence_unit_name": "10677.1.173017.TAGGCCGACTT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 567716,
+        "low_quality_removed": 131872,
+        "sequencing_adaptor_removed": 750,
+        "artifacts_removed": 110
+      },
+      "itagger_read_processing": {
+        "initial": 434984,
+        "merged": 204067,
+        "primer_trimmed": 198851,
+        "final": 198752,
+        "unique": 89915
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112514,
+      "sample_name": "D24",
+      "sequence_unit_name": "10677.1.173017.TGGCACCGATT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 657786,
+        "low_quality_removed": 174614,
+        "sequencing_adaptor_removed": 3498,
+        "artifacts_removed": 138
+      },
+      "itagger_read_processing": {
+        "initial": 479536,
+        "merged": 212505,
+        "primer_trimmed": 207102,
+        "final": 207080,
+        "unique": 78107
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112515,
+      "sample_name": "E24",
+      "sequence_unit_name": "10677.1.173017.TACCGCTAGTA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 461232,
+        "low_quality_removed": 126486,
+        "sequencing_adaptor_removed": 108,
+        "artifacts_removed": 128
+      },
+      "itagger_read_processing": {
+        "initial": 334510,
+        "merged": 140112,
+        "primer_trimmed": 136622,
+        "final": 136610,
+        "unique": 60372
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112516,
+      "sample_name": "A36",
+      "sequence_unit_name": "10677.1.173017.TGGCTCTACAG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 701596,
+        "low_quality_removed": 160404,
+        "sequencing_adaptor_removed": 58,
+        "artifacts_removed": 170
+      },
+      "itagger_read_processing": {
+        "initial": 540964,
+        "merged": 255444,
+        "primer_trimmed": 248600,
+        "final": 248592,
+        "unique": 99275
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112518,
+      "sample_name": "C36",
+      "sequence_unit_name": "10677.1.173017.GATACGTCCTG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 464212,
+        "low_quality_removed": 107560,
+        "sequencing_adaptor_removed": 38,
+        "artifacts_removed": 106
+      },
+      "itagger_read_processing": {
+        "initial": 356508,
+        "merged": 162964,
+        "primer_trimmed": 158927,
+        "final": 158874,
+        "unique": 86432
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112519,
+      "sample_name": "D36",
+      "sequence_unit_name": "10677.1.173017.CATGAGTGCTA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 469826,
+        "low_quality_removed": 114328,
+        "sequencing_adaptor_removed": 118,
+        "artifacts_removed": 90
+      },
+      "itagger_read_processing": {
+        "initial": 355290,
+        "merged": 170619,
+        "primer_trimmed": 166368,
+        "final": 166360,
+        "unique": 74765
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112520,
+      "sample_name": "E36",
+      "sequence_unit_name": "10677.1.173017.ACGCTATCTGG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 794968,
+        "low_quality_removed": 174934,
+        "sequencing_adaptor_removed": 98,
+        "artifacts_removed": 186
+      },
+      "itagger_read_processing": {
+        "initial": 619750,
+        "merged": 300393,
+        "primer_trimmed": 293119,
+        "final": 292988,
+        "unique": 143037
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112521,
+      "sample_name": "F36",
+      "sequence_unit_name": "10677.1.173017.CTTCTAAGGAG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 837586,
+        "low_quality_removed": 196218,
+        "sequencing_adaptor_removed": 10,
+        "artifacts_removed": 176
+      },
+      "itagger_read_processing": {
+        "initial": 641182,
+        "merged": 308341,
+        "primer_trimmed": 300908,
+        "final": 300898,
+        "unique": 139171
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112522,
+      "sample_name": "G36",
+      "sequence_unit_name": "10677.1.173017.ATTCATGGACG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 693700,
+        "low_quality_removed": 174882,
+        "sequencing_adaptor_removed": 378,
+        "artifacts_removed": 120
+      },
+      "itagger_read_processing": {
+        "initial": 518320,
+        "merged": 247327,
+        "primer_trimmed": 241713,
+        "final": 241698,
+        "unique": 105531
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112523,
+      "sample_name": "Adec2",
+      "sequence_unit_name": "10677.1.173017.TCTGGAACGCT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 787484,
+        "low_quality_removed": 188908,
+        "sequencing_adaptor_removed": 316,
+        "artifacts_removed": 180
+      },
+      "itagger_read_processing": {
+        "initial": 598080,
+        "merged": 284511,
+        "primer_trimmed": 277725,
+        "final": 277719,
+        "unique": 123141
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112524,
+      "sample_name": "Bdec2a",
+      "sequence_unit_name": "10677.1.173017.GCCGCTTAATA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 696006,
+        "low_quality_removed": 157302,
+        "sequencing_adaptor_removed": 110,
+        "artifacts_removed": 168
+      },
+      "itagger_read_processing": {
+        "initial": 538426,
+        "merged": 261605,
+        "primer_trimmed": 255242,
+        "final": 255166,
+        "unique": 124234
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112525,
+      "sample_name": "Bdec2b",
+      "sequence_unit_name": "10677.1.173017.TCAGAGGTTAC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 892548,
+        "low_quality_removed": 207816,
+        "sequencing_adaptor_removed": 292,
+        "artifacts_removed": 174
+      },
+      "itagger_read_processing": {
+        "initial": 684266,
+        "merged": 329499,
+        "primer_trimmed": 321732,
+        "final": 321640,
+        "unique": 141153
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112526,
+      "sample_name": "Cdec2,3",
+      "sequence_unit_name": "10677.1.173017.GTCCAGTAATG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 574358,
+        "low_quality_removed": 129652,
+        "sequencing_adaptor_removed": 102,
+        "artifacts_removed": 110
+      },
+      "itagger_read_processing": {
+        "initial": 444494,
+        "merged": 217017,
+        "primer_trimmed": 211522,
+        "final": 211452,
+        "unique": 132991
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112527,
+      "sample_name": "Ddec2",
+      "sequence_unit_name": "10677.1.173017.ACGACGTCTTA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 1064938,
+        "low_quality_removed": 215506,
+        "sequencing_adaptor_removed": 146,
+        "artifacts_removed": 274
+      },
+      "itagger_read_processing": {
+        "initial": 849010,
+        "merged": 416282,
+        "primer_trimmed": 405321,
+        "final": 405220,
+        "unique": 229381
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112528,
+      "sample_name": "Hdec1",
+      "sequence_unit_name": "10677.1.173017.AAGTGGACTCT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 605918,
+        "low_quality_removed": 127944,
+        "sequencing_adaptor_removed": 48,
+        "artifacts_removed": 110
+      },
+      "itagger_read_processing": {
+        "initial": 477816,
+        "merged": 228333,
+        "primer_trimmed": 222440,
+        "final": 222395,
+        "unique": 104873
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112529,
+      "sample_name": "Hdec2",
+      "sequence_unit_name": "10677.1.173017.TAGTCAGGCCA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 920592,
+        "low_quality_removed": 214652,
+        "sequencing_adaptor_removed": 84,
+        "artifacts_removed": 178
+      },
+      "itagger_read_processing": {
+        "initial": 705678,
+        "merged": 344988,
+        "primer_trimmed": 335675,
+        "final": 335604,
+        "unique": 162737
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112530,
+      "sample_name": "Idec1",
+      "sequence_unit_name": "10677.1.173017.AGGCATCTTAC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 571106,
+        "low_quality_removed": 148562,
+        "sequencing_adaptor_removed": 72,
+        "artifacts_removed": 142
+      },
+      "itagger_read_processing": {
+        "initial": 422330,
+        "merged": 205639,
+        "primer_trimmed": 200608,
+        "final": 200600,
+        "unique": 84849
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112531,
+      "sample_name": "Jdec1",
+      "sequence_unit_name": "10677.1.173017.GGTATGACTCA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 845892,
+        "low_quality_removed": 197890,
+        "sequencing_adaptor_removed": 724,
+        "artifacts_removed": 186
+      },
+      "itagger_read_processing": {
+        "initial": 647090,
+        "merged": 311616,
+        "primer_trimmed": 303934,
+        "final": 303893,
+        "unique": 137718
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112532,
+      "sample_name": "Kdec1",
+      "sequence_unit_name": "10677.1.173017.GTTACCTCAGA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 668802,
+        "low_quality_removed": 156874,
+        "sequencing_adaptor_removed": 178,
+        "artifacts_removed": 142
+      },
+      "itagger_read_processing": {
+        "initial": 511608,
+        "merged": 250181,
+        "primer_trimmed": 243416,
+        "final": 243388,
+        "unique": 129708
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112533,
+      "sample_name": "Kdec2",
+      "sequence_unit_name": "10677.1.173017.TCGCATGAAGT.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 896912,
+        "low_quality_removed": 208064,
+        "sequencing_adaptor_removed": 122,
+        "artifacts_removed": 222
+      },
+      "itagger_read_processing": {
+        "initial": 688504,
+        "merged": 337517,
+        "primer_trimmed": 328544,
+        "final": 328506,
+        "unique": 192180
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112534,
+      "sample_name": "Mdec1,2",
+      "sequence_unit_name": "10677.1.173017.GAGTTCCATAG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 483604,
+        "low_quality_removed": 119194,
+        "sequencing_adaptor_removed": 314,
+        "artifacts_removed": 90
+      },
+      "itagger_read_processing": {
+        "initial": 364006,
+        "merged": 175716,
+        "primer_trimmed": 171404,
+        "final": 171379,
+        "unique": 87689
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112535,
+      "sample_name": "Ndec2",
+      "sequence_unit_name": "10677.1.173017.CAATTGTGCAC.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 677788,
+        "low_quality_removed": 164836,
+        "sequencing_adaptor_removed": 110,
+        "artifacts_removed": 150
+      },
+      "itagger_read_processing": {
+        "initial": 512692,
+        "merged": 245385,
+        "primer_trimmed": 238988,
+        "final": 238887,
+        "unique": 124821
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112536,
+      "sample_name": "Odec1",
+      "sequence_unit_name": "10677.1.173017.CACATTGTGAG.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 684720,
+        "low_quality_removed": 146090,
+        "sequencing_adaptor_removed": 136,
+        "artifacts_removed": 160
+      },
+      "itagger_read_processing": {
+        "initial": 538334,
+        "merged": 255698,
+        "primer_trimmed": 247621,
+        "final": 247581,
+        "unique": 123519
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112537,
+      "sample_name": "Qdec1,2",
+      "sequence_unit_name": "10677.1.173017.CGGTACTTGCA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 771596,
+        "low_quality_removed": 152648,
+        "sequencing_adaptor_removed": 88,
+        "artifacts_removed": 154
+      },
+      "itagger_read_processing": {
+        "initial": 618706,
+        "merged": 301921,
+        "primer_trimmed": 291190,
+        "final": 291156,
+        "unique": 125833
+      }
+    }
+  },
+  {
+    "metadata": {
+      "sample_id": 112538,
+      "sample_name": "Pdec2",
+      "sequence_unit_name": "10677.1.173017.TCGCTGTAACA.fastq.gz"
+    },
+    "sequencing": {
+      "read_filtering": {
+        "raw": 681066,
+        "low_quality_removed": 154268,
+        "sequencing_adaptor_removed": 216,
+        "artifacts_removed": 162
+      },
+      "itagger_read_processing": {
+        "initial": 526420,
+        "merged": 250132,
+        "primer_trimmed": 243162,
+        "final": 243089,
+        "unique": 122049
+      }
+    }
+  }
+]
