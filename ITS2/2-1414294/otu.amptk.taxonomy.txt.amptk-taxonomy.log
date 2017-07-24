@@ -1,0 +1,87 @@
+2017-05-15 10:25:28,069: /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/bin/amptk-assign_taxonomy.py --db ITS2 -f otu.fasta -i otu.tsv -o otu.amptk.taxonomy.txt
+
+2017-05-15 10:25:28,098: OS: linux2, 16 cores, ~ 131 GB RAM. Python: 2.7.5
+2017-05-15 10:25:28,597: amptk v.0.9.2, USEARCH v9.1.13, VSEARCH v2.3.2
+2017-05-15 10:25:28,598: Loading FASTA Records
+2017-05-15 10:25:28,600: 955 OTUs
+2017-05-15 10:25:28,600: Global alignment OTUs with usearch_global (USEARCH)
+2017-05-15 10:25:28,600: usearch9 -usearch_global otu.fasta -db /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/DB/ITS.udb -userout otu.amptk.taxonomy.txt.usearch.txt -id 0.7 -strand both -output_no_hits -top_hit_only -userfields query+target+id
+2017-05-15 10:25:40,596: usearch v9.1.13_i86linux32, 4.0Gb RAM (132Gb total), 16 cores
+(C) Copyright 2013-16 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: jason.stajich@ucr.edu
+
+
+2017-05-15 10:25:40,597: 00:00 3.8Mb     0.0% Rows00:01 223Mb    20.6% Rows00:02 1.1Gb    95.9% Rows00:02 1.1Gb   100.0% Rows
+00:02 1.1Gb  Reading pointers...done.
+00:02 1.2Gb  Reading db seqs...done.
+00:02 1.5Gb     0.1% Searching, 0.0% matched00:03 1.8Gb     5.0% Searching, 100.0% matched00:04 1.8Gb     9.8% Searching, 98.7% matched 00:05 1.8Gb    19.8% Searching, 95.3% matched00:06 1.8Gb    30.5% Searching, 94.8% matched00:07 1.8Gb    38.9% Searching, 93.2% matched00:08 1.8Gb    50.2% Searching, 93.5% matched00:09 1.8Gb    60.9% Searching, 92.7% matched00:10 1.8Gb    71.0% Searching, 92.3% matched00:11 1.8Gb    83.4% Searching, 91.4% matched00:12 1.8Gb    96.0% Searching, 91.9% matched00:12 1.8Gb   100.0% Searching, 91.4% matched
+
+2017-05-15 10:25:40,597: Classifying OTUs with UTAX (USEARCH)
+2017-05-15 10:25:40,598: usearch9 -utax otu.fasta -db /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/DB/ITS2_UTAX.udb -utaxout otu.amptk.taxonomy.txt.utax.txt -utax_cutoff 0.8 -strand plus -notrunclabels
+2017-05-15 10:25:41,097: usearch v9.1.13_i86linux32, 4.0Gb RAM (132Gb total), 16 cores
+(C) Copyright 2013-16 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: jason.stajich@ucr.edu
+
+
+2017-05-15 10:25:41,098: 00:00 3.7Mb     0.0% Rows00:00 61Mb    100.0% Rows
+00:00 61Mb   Read taxonomy info...done.
+00:00 64Mb   Reading pointers...done.
+00:00 69Mb   Reading db seqs...done.
+00:00 117Mb     0.1% 0 seqs, 0.0% at phylum, 0.0% genus (P > 0.00)00:01 200Mb    63.9% 592 seqs, 74.3% at phylum, 11.1% genus (P > 0.80)00:01 200Mb   100.0% 955 seqs, 66.7% at phylum, 8.7% genus (P > 0.80) 
+
+WARNING: Option -notrunclabels not used
+
+
+2017-05-15 10:25:41,098: Classifying OTUs with SINTAX (USEARCH)
+2017-05-15 10:25:41,098: usearch9 -sintax otu.fasta -db /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/DB/ITS.extracted.fa -tabbedout otu.amptk.taxonomy.txt.sintax.txt -sintax_cutoff 0.8 -strand both
+2017-05-15 10:28:25,444: usearch v9.1.13_i86linux32, 4.0Gb RAM (132Gb total), 16 cores
+(C) Copyright 2013-16 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: jason.stajich@ucr.edu
+
+
+2017-05-15 10:28:25,444: 00:00 37Mb      0.1% Reading /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/DB/ITS.extracted.fa00:01 108Mb    18.3% Reading /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/DB/ITS.extracted.fa00:02 209Mb    44.5% Reading /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/DB/ITS.extracted.fa00:03 308Mb    70.9% Reading /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/DB/ITS.extracted.fa00:04 406Mb    96.0% Reading /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/DB/ITS.extracted.fa00:04 420Mb   100.0% Reading /bigdata/bioinfo/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/amptk/0.9.2/DB/ITS.extracted.fa
+00:04 387Mb     0.1% Masking (fastnucleo)                                                                              00:05 387Mb    13.2% Masking (fastnucleo)00:06 387Mb    28.3% Masking (fastnucleo)00:07 387Mb    43.3% Masking (fastnucleo)00:08 387Mb    58.2% Masking (fastnucleo)00:09 387Mb    73.2% Masking (fastnucleo)00:10 387Mb    88.4% Masking (fastnucleo)00:10 387Mb   100.0% Masking (fastnucleo)
+00:10 388Mb     0.1% Word stats          00:11 388Mb     1.7% Word stats00:12 388Mb     8.7% Word stats00:13 388Mb    15.7% Word stats00:14 388Mb    22.6% Word stats00:15 388Mb    29.5% Word stats00:16 388Mb    36.5% Word stats00:17 388Mb    43.5% Word stats00:18 388Mb    50.5% Word stats00:19 388Mb    57.5% Word stats00:20 388Mb    64.5% Word stats00:21 388Mb    71.4% Word stats00:22 388Mb    78.4% Word stats00:23 388Mb    85.3% Word stats00:24 388Mb    92.1% Word stats00:25 388Mb    99.1% Word stats00:25 388Mb   100.0% Word stats
+00:25 388Mb   100.0% Alloc rows
+00:25 1.5Gb     0.1% Build index00:26 1.5Gb     3.9% Build index00:27 1.5Gb     9.8% Build index00:28 1.5Gb    15.7% Build index00:29 1.5Gb    21.6% Build index00:30 1.5Gb    27.5% Build index00:31 1.5Gb    33.4% Build index00:32 1.5Gb    39.3% Build index00:33 1.5Gb    45.2% Build index00:34 1.5Gb    51.1% Build index00:35 1.5Gb    57.0% Build index00:36 1.5Gb    63.0% Build index00:37 1.5Gb    68.9% Build index00:38 1.5Gb    74.8% Build index00:39 1.5Gb    80.7% Build index00:40 1.5Gb    86.6% Build index00:41 1.5Gb    92.5% Build index00:42 1.5Gb    98.4% Build index00:42 1.5Gb   100.0% Build index
+00:42 1.5Gb     0.0% Initialize taxonomy data00:43 1.5Gb    11.7% Initialize taxonomy data00:44 1.5Gb    26.7% Initialize taxonomy data00:45 1.5Gb    46.3% Initialize taxonomy data00:46 1.5Gb    62.1% Initialize taxonomy data00:47 1.5Gb    79.8% Initialize taxonomy data00:47 1.6Gb   100.0% Initialize taxonomy data
+00:47 1.6Gb     0.0% Building name table     00:47 1.6Gb   100.0% Building name table
+00:47 1.6Gb  30999 names, tax levels min 1, avg 4.6, max 7
+
+WARNING: 2 taxonomy nodes have >1 parent
+
+00:47 1.6Gb     0.1% Processing00:50 1.7Gb     2.6% Processing00:52 1.7Gb     4.3% Processing00:55 1.7Gb     5.9% Processing00:56 1.7Gb     7.0% Processing00:59 1.7Gb     8.9% Processing01:02 1.7Gb    10.6% Processing01:04 1.7Gb    12.8% Processing01:06 1.7Gb    13.4% Processing01:09 1.7Gb    15.6% Processing01:11 1.7Gb    17.4% Processing01:13 1.7Gb    18.5% Processing01:14 1.7Gb    19.6% Processing01:16 1.7Gb    20.8% Processing01:18 1.7Gb    22.7% Processing01:20 1.7Gb    24.0% Processing01:22 1.7Gb    25.9% Processing01:24 1.7Gb    27.2% Processing01:26 1.7Gb    28.8% Processing01:27 1.7Gb    29.4% Processing01:28 1.7Gb    30.2% Processing01:29 1.7Gb    31.0% Processing01:30 1.7Gb    32.4% Processing01:32 1.7Gb    34.1% Processing01:33 1.7Gb    35.2% Processing01:36 1.7Gb    36.8% Processing01:37 1.7Gb    38.0% Processing01:39 1.7Gb    40.0% Processing01:41 1.7Gb    41.0% Processing01:43 1.7Gb    42.6% Processing01:45 1.7Gb    44.7% Processing01:46 1.7Gb    45.8% Processing01:49 1.7Gb    47.6% Processing01:53 1.7Gb    50.7% Processing01:56 1.7Gb    52.9% Processing02:00 1.7Gb    56.4% Processing02:02 1.7Gb    58.3% Processing02:06 1.7Gb    61.6% Processing02:09 1.7Gb    64.1% Processing02:11 1.7Gb    66.2% Processing02:12 1.7Gb    67.5% Processing02:14 1.7Gb    68.8% Processing02:15 1.7Gb    69.8% Processing02:16 1.7Gb    70.4% Processing02:17 1.7Gb    71.8% Processing02:19 1.7Gb    74.2% Processing02:22 1.7Gb    77.2% Processing02:24 1.7Gb    79.5% Processing02:26 1.7Gb    80.8% Processing02:27 1.7Gb    81.8% Processing02:28 1.7Gb    83.1% Processing02:30 1.7Gb    84.7% Processing02:31 1.7Gb    86.1% Processing02:33 1.7Gb    88.4% Processing02:35 1.7Gb    89.8% Processing02:36 1.7Gb    91.0% Processing02:37 1.7Gb    93.3% Processing02:38 1.7Gb    94.7% Processing02:40 1.7Gb    96.6% Processing02:41 1.7Gb    97.1% Processing02:42 1.7Gb    99.2% Processing02:43 1.7Gb    99.7% Processing02:44 1.7Gb   100.0% Processing
+
+2017-05-15 10:28:25,449: Loading UTAX results into dictionary
+2017-05-15 10:28:25,455: Loading SINTAX results into dictionary
+2017-05-15 10:28:25,462: Loading Global Alignment results into dictionary, cross-checking
+2017-05-15 10:28:25,473: Appending taxonomy to OTU table and OTUs
+2017-05-15 10:28:25,921: Generating phylogenetic tree
+2017-05-15 10:28:25,921: usearch9 -cluster_agg otu.fasta -treeout otu.amptk.taxonomy.txt.tree.phy
+2017-05-15 10:28:28,204: usearch v9.1.13_i86linux32, 4.0Gb RAM (132Gb total), 16 cores
+(C) Copyright 2013-16 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: jason.stajich@ucr.edu
+
+
+2017-05-15 10:28:28,204: 00:00 37Mb      0.1% Reading otu.fasta00:00 40Mb    100.0% Reading otu.fasta
+00:00 7.7Mb     0.1% Word stats       00:00 7.9Mb   100.0% Word stats
+00:00 7.9Mb   100.0% Alloc rows
+00:00 8.9Mb     0.1% Build index00:00 8.9Mb   100.0% Build index
+00:00 42Mb      0.1% Distance matrix/usort00:01 74Mb     14.9% Distance matrix/usort00:02 76Mb     93.2% Distance matrix/usort00:02 77Mb    100.0% Distance matrix/usort
+00:03 83Mb      0.1% Building tree        00:03 83Mb    100.0% Building tree
+
+2017-05-15 10:28:28,205: Taxonomy finished: otu.amptk.taxonomy.txt.taxonomy.txt
+2017-05-15 10:28:28,205: Classic OTU table with taxonomy: otu.amptk.taxonomy.txt.otu_table.taxonomy.txt
+2017-05-15 10:28:32,177: biom convert -i otu.tsv -o otu.amptk.taxonomy.txt.biom.tmp --table-type OTU table --to-json
+2017-05-15 10:28:33,069: biom add-metadata -i otu.amptk.taxonomy.txt.biom.tmp -o otu.amptk.taxonomy.txt.biom --observation-metadata-fp otu.amptk.taxonomy.txt.qiime.taxonomy.txt --sc-separated taxonomy --output-as-json
+2017-05-15 10:28:33,968: BIOM OTU table created: otu.amptk.taxonomy.txt.biom
+2017-05-15 10:28:33,968: OTUs with taxonomy: otu.amptk.taxonomy.txt.otus.taxonomy.fa
+2017-05-15 10:28:33,969: OTU phylogeny: otu.amptk.taxonomy.txt.tree.phy

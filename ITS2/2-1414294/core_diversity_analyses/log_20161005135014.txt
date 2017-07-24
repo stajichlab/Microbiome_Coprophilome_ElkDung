@@ -1,0 +1,194 @@
+Logging started at 13:50:14 on 05 Oct 2016
+QIIME version: 1.9.1
+
+qiime_config values:
+pick_otus_reference_seqs_fp	/global/common/genepool/usg/languages/python/2.7.4/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+sc_queue	all.q
+pynast_template_alignment_fp	/global/common/genepool/usg/languages/python/2.7.4/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set_aligned/85_otus.pynast.fasta
+cluster_jobs_fp	start_parallel_jobs.py
+assign_taxonomy_reference_seqs_fp	/global/common/genepool/usg/languages/python/2.7.4/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+torque_queue	friendlyq
+jobs_to_start	1
+denoiser_min_per_core	50
+assign_taxonomy_id_to_taxonomy_fp	/global/common/genepool/usg/languages/python/2.7.4/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+temp_dir	/scratch/tmp/25907683.1.normal_excl.q/
+blastall_fp	blastall
+seconds_to_sleep	1
+
+parameter file values:
+parallel:jobs_to_start	16
+
+Input file md5 sums:
+/global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/otu.biom: d507f5828fdd77cddf046d24f348360a
+/global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/mapping.tsv: e2cbce98499534a44e7c3845a2eaa8f6
+/global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/otu.tre: 3b98b5d873ab79c5780426de882e2b65
+
+Executing commands.
+
+# Generate BIOM table summary command 
+biom summarize-table -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/otu.biom -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/biom_table_summary.txt 
+
+Stdout:
+
+Stderr:
+
+# Filter low sequence count samples from table (minimum sequence count: 1000) command 
+filter_samples_from_otu_table.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/otu.biom -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/table_mc1000.biom -n 1000
+
+Stdout:
+
+Stderr:
+
+# Rarify the OTU table to 1000 sequences/sample command 
+single_rarefaction.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/table_mc1000.biom -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/table_even1000.biom -d 1000
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+# Beta Diversity (weighted_unifrac) command 
+parallel_beta_diversity.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/table_even1000.biom -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000/ --metrics weighted_unifrac -T  -t /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/otu.tre --jobs_to_start 16
+
+Stdout:
+
+Stderr:
+
+# Rename distance matrix (weighted_unifrac) command 
+mv /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//weighted_unifrac_table_even1000.txt /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//weighted_unifrac_dm.txt
+
+Stdout:
+
+Stderr:
+
+# Principal coordinates (weighted_unifrac) command 
+principal_coordinates.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//weighted_unifrac_dm.txt -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//weighted_unifrac_pc.txt 
+
+Stdout:
+
+Stderr:
+/global/dna/projectdirs/MEP/tools/python/lib/python2.7/site-packages/skbio/stats/ordination/_principal_coordinate_analysis.py:107: RuntimeWarning: The result contains negative eigenvalues. Please compare their magnitude with the magnitude of some of the largest positive eigenvalues. If the negative ones are smaller, it's probably safe to ignore them, but if they are large in magnitude, the results won't be useful. See the Notes section for more details. The smallest eigenvalue is -0.192582375196 and the largest is 6.10324496811.
+  RuntimeWarning
+
+# Make emperor plots, weighted_unifrac) command 
+make_emperor.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//weighted_unifrac_pc.txt -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//weighted_unifrac_emperor_pcoa_plot/ -m /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/mapping.tsv 
+
+Stdout:
+
+Stderr:
+
+# Beta Diversity (unweighted_unifrac) command 
+parallel_beta_diversity.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/table_even1000.biom -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000/ --metrics unweighted_unifrac -T  -t /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/otu.tre --jobs_to_start 16
+
+Stdout:
+
+Stderr:
+
+# Rename distance matrix (unweighted_unifrac) command 
+mv /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//unweighted_unifrac_table_even1000.txt /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//unweighted_unifrac_dm.txt
+
+Stdout:
+
+Stderr:
+
+# Principal coordinates (unweighted_unifrac) command 
+principal_coordinates.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//unweighted_unifrac_dm.txt -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//unweighted_unifrac_pc.txt 
+
+Stdout:
+
+Stderr:
+/global/dna/projectdirs/MEP/tools/python/lib/python2.7/site-packages/skbio/stats/ordination/_principal_coordinate_analysis.py:107: RuntimeWarning: The result contains negative eigenvalues. Please compare their magnitude with the magnitude of some of the largest positive eigenvalues. If the negative ones are smaller, it's probably safe to ignore them, but if they are large in magnitude, the results won't be useful. See the Notes section for more details. The smallest eigenvalue is -0.0655189946427 and the largest is 2.53664763636.
+  RuntimeWarning
+
+# Make emperor plots, unweighted_unifrac) command 
+make_emperor.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//unweighted_unifrac_pc.txt -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/bdiv_even1000//unweighted_unifrac_emperor_pcoa_plot/ -m /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/mapping.tsv 
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+# Alpha rarefaction command 
+parallel_multiple_rarefactions.py -T -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/table_mc1000.biom -m 10 -x 1000 -s 99 -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/arare_max1000//rarefaction/  --jobs_to_start 16
+
+Stdout:
+
+Stderr:
+
+# Alpha diversity on rarefied OTU tables command 
+parallel_alpha_diversity.py -T -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/arare_max1000//rarefaction/ -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/arare_max1000//alpha_div/  -t /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/otu.tre --jobs_to_start 16
+
+Stdout:
+
+Stderr:
+
+# Collate alpha command 
+collate_alpha.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/arare_max1000//alpha_div/ -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/arare_max1000//alpha_div_collated/ 
+
+Stdout:
+
+Stderr:
+
+# Removing intermediate files command 
+rm -r /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/arare_max1000//rarefaction/ /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/arare_max1000//alpha_div/
+
+Stdout:
+
+Stderr:
+
+# Rarefaction plot: All metrics command 
+make_rarefaction_plots.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/arare_max1000//alpha_div_collated/ -m /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/mapping.tsv -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/arare_max1000//alpha_rarefaction_plots/ 
+
+Stdout:
+
+Stderr:
+/global/dna/projectdirs/MEP/tools/python/lib/python2.7/site-packages/matplotlib/collections.py:590: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if self._edgecolors == str('face'):
+
+Skipping compare_alpha_diversity.py as no categories were provided.
+
+Executing commands.
+
+# Sort OTU Table command 
+sort_otu_table.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/table_mc1000.biom -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/taxa_plots/table_mc1000_sorted.biom
+
+Stdout:
+
+Stderr:
+
+# Summarize Taxonomy command 
+summarize_taxa.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/taxa_plots/table_mc1000_sorted.biom -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/taxa_plots/ 
+
+Stdout:
+
+Stderr:
+
+# Plot Taxonomy Summary command 
+plot_taxa_summary.py -i /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/taxa_plots/table_mc1000_sorted_L2.txt,/global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/taxa_plots/table_mc1000_sorted_L3.txt,/global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/taxa_plots/table_mc1000_sorted_L4.txt,/global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/taxa_plots/table_mc1000_sorted_L5.txt,/global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/taxa_plots/table_mc1000_sorted_L6.txt -o /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/taxa_plots//taxa_summary_plots/ 
+
+Stdout:
+
+Stderr:
+/global/dna/projectdirs/MEP/tools/python/lib/python2.7/site-packages/matplotlib/collections.py:590: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if self._edgecolors == str('face'):
+
+Executing commands.
+
+# Compress the filtered BIOM table command 
+gzip /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/table_mc1000.biom
+
+Stdout:
+
+Stderr:
+
+# Compress the rarefied BIOM table command 
+gzip /global/projectb/scratch/qc_user/rqc/prod/pipelines/itag2/in-progress/00/00/24/90/clustering/otu/core_diversity_analyses/table_even1000.biom
+
+Stdout:
+
+Stderr:
+
+
+Logging stopped at 13:58:59 on 05 Oct 2016
