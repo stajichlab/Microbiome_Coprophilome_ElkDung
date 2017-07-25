@@ -54,11 +54,6 @@ pdf("Phyla_plot.pdf")
 ggplot(phylum, aes(x = factor(SampleAge), y = Abundance, fill = Phylum)) + 
   geom_bar(stat = "identity") +
   scale_fill_manual(values = phylum_colors) +
-#  scale_x_discrete(
-#    breaks = c("3200", "7000", "11000"),
-#    labels = c("Low-3.2k", "Med-7k", "High-11k"), 
-#    drop = FALSE
-#  ) +
   # Remove x axis title
   theme( axis.text.x = element_text(angle = 60, hjust = 1)) + 
   #
@@ -70,27 +65,15 @@ class <- phylo %>%
   tax_glom(taxrank = "Class") %>%                     # agglomerate at Class level
   transform_sample_counts(function(x) {x/sum(x)} ) %>% # Transform to rel. abundance
   psmelt() %>%                                         # Melt to long format
-#  filter(Abundance > 0.02) %>%                         # Filter out low abundance taxa
+  filter(Abundance > 0.02) %>%                         # Filter out low abundance taxa
   arrange(Class)                                      # Sort data frame alphabetically by phylum
-
-genus <- phylo %>%
-  tax_glom(taxrank = "Genus") %>%                     # agglomerate at Class level
-  transform_sample_counts(function(x) {x/sum(x)} ) %>% # Transform to rel. abundance
-  psmelt() %>%                                         # Melt to long format
-#  filter(Abundance > 0.02) %>%                         # Filter out low abundance taxa
-  arrange(Genus)                                      # Sort data frame alphabetically by phylum
 
 plot_bar(phylostand, "Phylum", fill="Class",facet_grid=~SampleAge)
 plot_bar(phylostand, "Phylum", fill="Class",facet_grid=~PelletGroup)
 
 ggplot(class, aes(x = Sample, y = Abundance, fill = Class,facet_grid=SampleAge)) + 
   geom_bar(stat = "identity") +
-  scale_fill_manual(values = phylum_colors) +
-#  scale_x_discrete(
-#    breaks = c("3200", "7000", "11000"),
-#    labels = c("Low-3.2k", "Med-7k", "High-11k"), 
-#    drop = FALSE
-#  ) +
+#  scale_fill_manual(values = phylum_colors) +
   # Remove x axis title
   theme( axis.text.x = element_text(angle = 60, hjust = 1)) + 
   #
@@ -100,7 +83,7 @@ ggplot(class, aes(x = Sample, y = Abundance, fill = Class,facet_grid=SampleAge))
 
 ggplot(class, aes(x = factor(PelletGroup), y = Abundance, fill = Class)) + 
   geom_bar(stat = "identity") +
-  scale_fill_manual(values = phylum_colors) +
+#  scale_fill_manual(values = phylum_colors) +
   # Remove x axis title
   theme( axis.text.x = element_text(angle = 60, hjust = 1)) + 
   #
@@ -111,7 +94,7 @@ ggplot(class, aes(x = factor(PelletGroup), y = Abundance, fill = Class)) +
 
 ggplot(class, aes(x = Sample, y = Abundance, fill = Class)) + 
   geom_bar(stat = "identity") +
-  scale_fill_manual(values = phylum_colors) +
+#  scale_fill_manual(values = phylum_colors) +
   theme( axis.text.x = element_text(angle = 60, hjust = 1)) + 
   #
   guides(fill = guide_legend(reverse = TRUE, keywidth = 1, keyheight = 1)) +
