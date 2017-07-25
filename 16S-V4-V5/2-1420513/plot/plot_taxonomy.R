@@ -38,7 +38,7 @@ phylum <- phylo %>%
   tax_glom(taxrank = "Phylum") %>%                     # agglomerate at phylum level
   transform_sample_counts(function(x) {x/sum(x)} ) %>% # Transform to rel. abundance
   psmelt() %>%                                         # Melt to long format
-#  filter(Abundance > 0.001) %>%                         # Filter out low abundance taxa
+  filter(Abundance > 0.02) %>%                         # Filter out low abundance taxa
   arrange(Phylum)                                      # Sort data frame alphabetically by phylum
 
 phylum_colors <- c(
