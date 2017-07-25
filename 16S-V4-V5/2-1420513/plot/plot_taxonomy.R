@@ -68,8 +68,16 @@ class <- phylo %>%
   filter(Abundance > 0.02) %>%                         # Filter out low abundance taxa
   arrange(Class)                                      # Sort data frame alphabetically by phylum
 
-plot_bar(phylostand, "Phylum", fill="Class",facet_grid=~SampleAge)
-plot_bar(phylostand, "Phylum", fill="Class",facet_grid=~PelletGroup)
+firmicutes <- subset_taxa(phylostand,Phylum=="Firmicutes")
+transform_sample_counts(firmicutes, function(OTU) OTU/sum(OTU) )
+proteo <- subset_taxa(phylostand,Phylum=="Proteobacteria")
+transform_sample_counts(proteo, function(OTU) OTU/sum(OTU) )
+
+
+plot_bar(proteo, "Phylum", fill="Class",facet_grid=~SampleAge)
+plot_bar(proteo, "Phylum", fill="Class",facet_grid=~PelletGroup)
+plot_bar(firmicutes, "Phylum", fill="Class",facet_grid=~SampleAge)
+plot_bar(firmicutes, "Phylum", fill="Class",facet_grid=~PelletGroup)
 
 ggplot(class, aes(x = Sample, y = Abundance, fill = Class,facet_grid=SampleAge)) + 
   geom_bar(stat = "identity") +
