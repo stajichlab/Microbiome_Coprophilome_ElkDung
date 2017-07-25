@@ -11,22 +11,22 @@ meta <- read.table("Coprophile_meta.tsv",header=T,sep="\t",row.names=1,
                    stringsAsFactors=FALSE)
 otus <- read.table("Coprophile_OTU_pellets_16S.tsv",
                    header=T,sep="\t",row.names=1)
+otus$taxonomy <- NULL
 colnames(otus)
-
 sum(otus)
 #otus <- head(otus,n=120L)
 otus <- as(as.matrix(otus), "matrix")
 OTU = otu_table(otus, taxa_are_rows = TRUE)
 sampleData <- sample_data(meta)
 
-#rownames(sampleData)
-#colnames(sampleData)
+rownames(sampleData)
+colnames(sampleData)
 
 taxmat <- read.table("Coprophile_taxonomy.tsv",header=T,sep="\t",row.names=1)
 taxmat <- as(as.matrix(taxmat),"matrix")
 TAX = tax_table(taxmat)
+head(TAX)
 
-TAX <- head(TAX,n=120L)
 phylo = phyloseq(OTU, TAX,sampleData)
 phylo
 
@@ -44,7 +44,8 @@ phylum <- phylo %>%
 phylum_colors <- c(
   "#CBD588", "#5F7FC7", "darkgreen","#DA5724", "#508578", "#CD9BCD",
    "orange","#AD6F3B", "#D14285", "#652926", "#C84248", 
-  "#8569D5", "#5E738F","#D1A33D", "#8A7C64", "#599861"
+  "#8569D5", "#5E738F","#D1A33D", "#8A7C64", "#599861",
+ "red","orange","blue","yellow","green","purple","black","grey","magenta","darkgreen","heather","burntorange","darkblue"
 )
 
 pdf("Phyla_plot.pdf")
@@ -116,13 +117,4 @@ ggplot(class, aes(x = Sample, y = Abundance, fill = Class)) +
   guides(fill = guide_legend(reverse = TRUE, keywidth = 1, keyheight = 1)) +
     xlab("Sample") + ylab("Relative Abundance (Class > 2%) \n") +
   ggtitle("Class Composition of Dung Pellets") 
-
-ggplot(genus, aes(x = Sample, y = Abundance, fill = Class)) + 
-  geom_bar(stat = "identity") +
-  scale_fill_manual(values = phylum_colors) +
-  theme( axis.text.x = element_text(angle = 60, hjust = 1)) + 
-  #
-  guides(fill = guide_legend(reverse = TRUE, keywidth = 1, keyheight = 1)) +
-    xlab("Sample") + ylab("Relative Abundance (Class > 2%) \n") +
-  ggtitle("Genus Composition of Dung Pellets order by Pellet") 
 
