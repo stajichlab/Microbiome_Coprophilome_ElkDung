@@ -1,0 +1,956 @@
+OUT	TaxonomyUsearch
+0	EF197081;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1	KX621286;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Thelebolales,f:Thelebolaceae,g:Thelebolus
+2	UTAX;k:Fungi,p:Ascomycota
+3	SINTAX;k:Fungi
+4	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae
+5	AJ271628;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Ascobolaceae,g:Ascobolus,s:Ascobolus immersus
+6	KC461134;k:Fungi
+7	KF128767;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+8	GU212429;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Thelebolales,f:Thelebolaceae
+9	FJ553261;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Pyronemataceae
+10	AF345813;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis lagopus
+11	FJ160957;k:Fungi,p:Mucoromycota,o:Mucorales,f:Pilobolaceae,g:Pilobolus,s:Pilobolus kleinii
+12	GQ249277;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis sclerotiger
+13	JN159553;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinellus,s:Coprinellus heptemerus
+14	UTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes
+15	AY461828;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis stercorea
+16	KU955584;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Arnium,s:Arnium arizonense
+17	UTAX;k:Fungi,p:Ascomycota
+18	FJ713091;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Microascaceae,g:Scedosporium,s:Scedosporium prolificans
+19	JX076982;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium,s:Acremonium chrysogenum
+20	UTAX;k:Fungi,p:Ascomycota
+21	AF376769;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora
+22	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+24	SINTAX;k:Fungi
+25	FJ160949;k:Fungi,p:Mucoromycota,o:Mucorales,f:Pilobolaceae,g:Pilobolus,s:Pilobolus crystallinus
+26	KP101211;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Sporormiella,s:Sporormiella minimoides
+27	JQ775581;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Pezizaceae
+28	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+29	KU141390;k:Fungi
+30	KF871453;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Sporormiella,s:Sporormiella megalospora
+31	FJ210539;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Davidiellaceae,g:Cladosporium
+32	EF197084;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora pleiospora
+33	FJ172238;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Leptosphaeriaceae,g:Leptosphaeria
+34	KT235909;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora
+35	UTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales
+36	UTAX;k:Fungi,p:Ascomycota
+37	EF555495;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Pilaira,s:Pilaira anomala
+38	EU437434;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Microascaceae
+39	AM924166;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Sporormiella,s:Sporormiella australis
+40	GQ999406;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Agaricaceae,g:Coprinus
+41	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Parasola
+43	AF229480;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Alternaria,s:Alternaria infectoria
+44	EU770235;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Montagnulaceae,g:Paraphaeosphaeria,s:Paraphaeosphaeria neglecta
+46	AY498864;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,g:Candida,s:Candida vadensis
+48	UTAX;k:Fungi,p:Ascomycota
+50	DQ317369;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Pyronemataceae
+51	AY681188;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Sordariaceae,g:Sordaria,s:Sordaria fimicola
+52	SINTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Ascobolaceae,g:Ascobolus,s:Ascobolus furfuraceus
+53	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae
+54	JN159552;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinellus,s:Coprinellus congregatus
+55	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium,s:Fusarium redolens
+56	UTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinellus
+58	SINTAX;k:Fungi,p:Ascomycota
+59	FN376417;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,f:Dipodascaceae,g:Dipodascus,s:Dipodascus geotrichum
+60	SINTAX;k:Fungi
+61	No Hit
+63	AY969719;k:Fungi,p:Ascomycota
+64	UTAX;k:Fungi,p:Ascomycota
+66	AB078501;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,o:Cystobasidiales,f:Cystobasidiaceae,g:Cystobasidium
+67	AY531684;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Boeremia,s:Boeremia exigua
+68	UTAX;k:Fungi,p:Ascomycota
+69	GU055688;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae
+70	SINTAX;k:Fungi,p:Neocallimastigomycota,c:Neocallimastigomycetes,o:Neocallimastigales,f:Neocallimastigaceae
+71	KF060281;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,g:Pilidium,s:Pilidium concavum
+73	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+74	GU219466;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sarocladium,s:Sarocladium strictum
+76	FJ236000;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales
+77	AM999691;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae
+78	FJ571479;k:Fungi,p:Ascomycota,c:Sordariomycetes,f:Plectosphaerellaceae,g:Plectosphaerella
+79	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae
+82	HF947051;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+84	FN394721;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Leptosphaeriaceae,g:Leptosphaeria
+85	SINTAX;k:Fungi,p:Mucoromycota,o:Mucorales,f:Pilobolaceae,g:Pilobolus
+86	SINTAX;k:Fungi,p:Ascomycota
+87	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+88	GU132456;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium,s:Fusarium oxysporum
+89	UTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Cryptococcus,s:Cryptococcus frias
+90	HG799538;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Sclerotiniaceae,g:Botrytis
+91	UTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae
+92	UTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Holtermanniales,g:Holtermanniella,s:Holtermanniella takashimae
+93	KR909175;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae,g:Lophiostoma
+95	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+96	SINTAX;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,g:Wickerhamomyces,s:Wickerhamomyces rabaulensis
+98	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+100	KF128821;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+101	UTAX;k:Fungi,p:Ascomycota,c:Taphrinomycetes
+103	GQ203787;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia,s:Preussia minipascua
+104	GU054184;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae
+105	KC460891;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Onygenales,f:Onygenaceae,g:Chrysosporium,s:Chrysosporium lobatum
+106	JF433007;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae
+107	UTAX;k:Fungi,p:Ascomycota,c:Taphrinomycetes,o:Taphrinales,f:Protomycetaceae,g:Protomyces,s:Protomyces inouyei
+108	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+110	EF619702;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+112	HM484859;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Selinia,s:Selinia pulchra
+113	SINTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes
+116	FJ807685;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,o:Cystobasidiales,f:Cystobasidiaceae,g:Cystobasidium,s:Cystobasidium slooffiae
+117	No Hit
+118	UTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+119	UTAX;k:Fungi,p:Ascomycota,c:Leotiomycetes
+120	KX776607;k:Fungi
+121	JF907827;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Bolbitiaceae,g:Conocybe,s:Conocybe rickenii
+123	AM901903;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Cryptococcus
+126	UTAX;*
+127	AY372073;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Ascobolaceae,g:Ascobolus,s:Ascobolus furfuraceus
+128	SINTAX;k:Fungi
+129	GQ922562;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Gibberella,s:Gibberella tricincta
+130	KR014351;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae
+131	SINTAX;k:Fungi
+132	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis stercorea
+133	SINTAX;k:Fungi
+134	GU226831;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium
+137	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+138	FJ005117;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Helotiaceae,g:Cyathicula,s:Cyathicula culmicola
+139	KF381018;k:Fungi,p:Basidiomycota,c:Ustilaginomycetes,o:Ustilaginales,f:Ustilaginaceae,g:Ustilago,s:Ustilago striiformis
+142	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+143	AM901802;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Ascochyta
+144	UTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Cystofilobasidiales,f:Cystofilobasidiaceae,g:Cystofilobasidium,s:Cystofilobasidium macerans
+146	DQ069043;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium,s:Penicillium chrysogenum
+147	LT602890;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes
+151	SINTAX;k:Fungi,p:Neocallimastigomycota,c:Neocallimastigomycetes,o:Neocallimastigales,f:Neocallimastigaceae
+154	GU315929;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Chaetothyriaceae,g:Cyphellophora
+155	SINTAX;k:Fungi
+156	KC460885;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Sporormiella,s:Sporormiella australis
+157	DQ182503;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,g:Panaeolus,s:Panaeolus papilionaceus
+158	UTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+163	FJ236003;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,o:Cystobasidiales,f:Cystobasidiaceae,g:Cystobasidium
+164	JF739304;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Gibberella,s:Gibberella coronicola
+165	AY026939;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora austrohemisphaerica
+166	KC460807;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae,g:Lophiostoma,s:Lophiostoma compressum
+167	SINTAX;k:Plantae
+169	AY952467;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Stilbella,s:Stilbella fimetaria
+170	SINTAX;k:Fungi,p:Neocallimastigomycota,c:Neocallimastigomycetes,o:Neocallimastigales,f:Neocallimastigaceae
+171	SINTAX;k:Fungi
+172	SINTAX;k:Fungi,p:Neocallimastigomycota,c:Neocallimastigomycetes,o:Neocallimastigales,f:Neocallimastigaceae,g:Orpinomyces
+173	UTAX;k:Fungi,p:Ascomycota
+174	AY147360;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium,s:Fusarium culmorum
+175	UTAX;*
+176	DQ166962;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora pyriformis
+178	JN206101;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Pilaira,s:Pilaira anomala
+179	JN114421;k:Fungi,p:Basidiomycota,c:Ustilaginomycetes,o:Urocystidales,f:Urocystidaceae,g:Urocystis,s:Urocystis agropyri
+182	AJ006675;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Polyporales,f:Phanerochaetaceae,g:Antrodiella,s:Antrodiella semisupina
+183	KP131893;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Cryptococcus,s:Cryptococcus aureus
+184	FN396101;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinellus,s:Coprinellus sassii
+185	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+186	UTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales
+193	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+194	SINTAX;k:Fungi
+195	KJ655434;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae
+199	UTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Cryptococcus,s:Cryptococcus podzolicus
+201	UTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Filobasidiales,f:Filobasidiaceae,g:Filobasidium
+205	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+206	SINTAX;k:Fungi
+207	EU754969;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Leptosphaeriaceae
+208	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes
+209	KU580264;k:Fungi,p:Ascomycota,c:Sordariomycetes,f:Plectosphaerellaceae,g:Lectera
+210	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+214	GU055519;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Chaetomiaceae
+215	SINTAX;k:Fungi
+217	EU754937;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Chaetosphaeriales,f:Chaetosphaeriaceae
+220	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium
+221	AF444671;k:Fungi,p:Basidiomycota,c:Agaricostilbomycetes,o:Agaricostilbales,f:Agaricostilbaceae,g:Bensingtonia
+222	No Hit
+225	AM922222;k:Fungi,p:Ascomycota,c:Sordariomycetes,f:Plectosphaerellaceae,g:Gibellulopsis,s:Gibellulopsis nigrescens
+227	KP899400;k:Fungi,p:Ascomycota
+229	SINTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes
+230	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae
+231	GQ302680;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Cordycipitaceae,g:Beauveria,s:Beauveria bassiana
+232	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+234	HQ649998;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Ostropales
+235	FN397426;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+236	UTAX;k:Fungi,p:Mucoromycota,o:Mucorales
+238	SINTAX;k:Fungi,p:Mucoromycota,o:Mucorales,f:Pilobolaceae,g:Pilobolus,s:Pilobolus kleinii
+239	KC339242;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+244	AF045879;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Microbotryales,f:Microbotryaceae,g:Microbotryum,s:Microbotryum kuehneanum
+245	SINTAX;k:Fungi
+246	SINTAX;k:Fungi,p:Ascomycota
+247	SINTAX;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes
+250	GU055684;k:Fungi,p:Basidiomycota,c:Tremellomycetes
+251	AB520440;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Leucosporidiales,f:Leucosporidiaceae,g:Mastigobasidium
+253	FJ590604;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Mucor,s:Mucor fragilis
+255	SINTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales
+258	GU187526;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Russulales,f:Stephanosporaceae,g:Cristinia
+260	GQ922553;k:Fungi,p:Ascomycota,c:Pezizomycetes
+261	GU055712;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae
+262	SINTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales
+263	SINTAX;k:Fungi
+264	HQ608016;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Chaetomiaceae,g:Humicola
+265	SINTAX;k:Fungi
+267	GQ922552;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora curvicolla
+270	SINTAX;k:Fungi,p:Ascomycota,c:Taphrinomycetes,o:Taphrinales,f:Protomycetaceae,g:Protomyces
+271	SINTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes
+272	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+273	JF907837;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis candidolanata
+275	HF947090;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Sporidiobolales
+276	GQ922580;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora
+277	KT269238;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+278	SINTAX;k:Fungi
+279	GQ203780;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Sporormiella,s:Sporormiella irregularis
+281	SINTAX;k:Fungi,p:Basidiomycota
+282	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricostilbomycetes,o:Agaricostilbales
+284	SINTAX;k:Fungi
+286	EU266559;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleribasidiaceae,g:Vishniacozyma,s:Vishniacozyma dimennae
+288	GU054323;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Sporidiobolales,g:Sporobolomyces
+289	No Hit
+292	FJ237108;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,g:Cadophora
+293	JF461116;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+294	AJ488276;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Cordycipitaceae,g:Cordyceps,s:Cordyceps memorabilis
+296	UTAX;k:Fungi,p:Ascomycota
+303	UTAX;k:Fungi,p:Ascomycota
+304	HM126488;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis
+306	GU055711;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae
+307	SINTAX;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Microbotryales
+310	AF444441;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Bullera,s:Bullera unica
+312	JF907839;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Parasola,s:Parasola hercules
+313	KF573610;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,o:Cystobasidiales,f:Cystobasidiaceae,g:Cystobasidium
+314	SINTAX;k:Fungi
+315	UTAX;k:Fungi,p:Ascomycota
+316	SINTAX;k:Fungi,p:Neocallimastigomycota,c:Neocallimastigomycetes,o:Neocallimastigales,f:Neocallimastigaceae
+317	KT270306;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymosphaeriaceae,g:Roussoella
+319	No Hit
+321	AY204623;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,g:Tetracladium,s:Tetracladium marchalianum
+322	UTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes
+323	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+324	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+325	FJ379802;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium
+327	KF636762;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Helotiaceae
+329	UTAX;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales
+331	GU327634;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis cinerea
+332	SINTAX;k:Fungi,p:Neocallimastigomycota,c:Neocallimastigomycetes,o:Neocallimastigales,f:Neocallimastigaceae,g:Piromyces
+333	KT270218;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Chaetomiaceae,g:Humicola
+334	UTAX;*
+335	KT264418;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium
+337	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+338	JX235960;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Strophariaceae,g:Psilocybe,s:Psilocybe coprophila
+340	KJ881370;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium,s:Penicillium brevicompactum
+346	SINTAX;k:Fungi
+347	UTAX;k:Fungi,p:Ascomycota
+348	SINTAX;k:Fungi
+350	SINTAX;k:Fungi
+351	FN386270;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Gnomoniaceae,g:Ambarignomonia,s:Ambarignomonia petiolorum
+352	JX000108;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Ascobolaceae
+353	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+356	UTAX;k:Fungi,p:Ascomycota,c:Leotiomycetes
+357	UTAX;k:Fungi,p:Ascomycota
+359	FN397345;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium
+361	SINTAX;k:Plantae
+362	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+364	AY885687;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Dioszegia,s:Dioszegia buhagiarii
+367	GU212399;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Onygenales
+369	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+370	SINTAX;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Mucor,s:Mucor hiemalis
+371	KF251183;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Phaeosphaeria,s:Phaeosphaeria juncicola
+375	GU721260;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Stachybotrys
+379	FN396152;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis patouillardii
+380	SINTAX;k:Fungi,p:Basidiomycota
+381	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+382	SINTAX;k:Fungi
+383	HQ997376;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium
+385	UTAX;*
+387	FJ473371;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Naganishia,s:Naganishia cerealis
+389	SINTAX;k:Fungi
+390	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+394	AF210671;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Stephanonectria,s:Stephanonectria keithii
+395	AB746927;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Chaetomiaceae
+396	SINTAX;k:Fungi
+397	KJ817322;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium
+398	KT269686;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+401	SINTAX;k:Fungi,p:Ascomycota
+402	SINTAX;k:Protista
+404	JF274487;k:Fungi,p:Neocallimastigomycota,c:Neocallimastigomycetes,o:Neocallimastigales,f:Neocallimastigaceae
+405	EU480243;k:Fungi
+407	FJ160947;k:Fungi,p:Mucoromycota,o:Mucorales,f:Pilobolaceae,g:Pilobolus,s:Pilobolus crystallinus
+409	DQ206984;k:Fungi,p:Basidiomycota,c:Exobasidiomycetes,o:Entylomatales,f:Entylomataceae,g:Entyloma
+410	UTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes
+411	SINTAX;k:Fungi
+412	SINTAX;k:Fungi
+414	SINTAX;k:Fungi
+417	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+418	SINTAX;k:Fungi
+419	SINTAX;k:Fungi
+420	AB236921;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,f:Metschnikowiaceae,g:Metschnikowia,s:Metschnikowia cibodasensis
+421	SINTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Ascobolaceae,g:Ascobolus,s:Ascobolus immersus
+422	SINTAX;k:Fungi
+428	AY188379;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Tremella
+429	SINTAX;k:Plantae
+431	SINTAX;k:Plantae
+432	JF907824;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Bolbitiaceae,g:Conocybe,s:Conocybe bulbifera
+433	SINTAX;k:Fungi
+434	GQ153239;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Coniochaetales,f:Coniochaetaceae,g:Coniochaeta
+436	UTAX;k:Fungi,p:Ascomycota
+437	UTAX;*
+439	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+440	FR682233;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,o:Cystobasidiales,f:Cystobasidiaceae,g:Occultifur
+443	SINTAX;k:Plantae
+445	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+449	UTAX;k:Fungi,p:Ascomycota
+453	LC014563;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Massarinaceae,g:Keissleriella
+455	SINTAX;k:Fungi
+457	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes
+458	KF871452;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+461	SINTAX;k:Fungi
+462	UTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+463	SINTAX;k:Fungi,p:Ascomycota
+465	AJ608974;k:Fungi,p:Ascomycota,c:Dothideomycetes
+467	SINTAX;k:Plantae
+471	UTAX;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales
+472	SINTAX;k:Plantae
+475	EF394860;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Ramularia,s:Ramularia eucalypti
+477	KT269133;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Ascochyta
+479	UTAX;k:Fungi,p:Ascomycota
+481	SINTAX;k:Fungi
+483	UTAX;k:Fungi,p:Ascomycota
+485	SINTAX;k:Fungi,p:Ascomycota
+490	AF444527;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Leucosporidiales,f:Leucosporidiaceae,g:Leucosporidiella,s:Leucosporidiella muscorum
+491	KC989090;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Phaeosphaeria,s:Phaeosphaeria pontiformis
+493	AY443469;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium,s:Penicillium atrosanguineum
+494	SINTAX;k:Fungi
+496	SINTAX;k:Fungi
+497	DQ491504;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Ascobolaceae,g:Ascobolus,s:Ascobolus crenulatus
+498	LN714011;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Cryptococcus
+499	SINTAX;k:Fungi
+501	JF449479;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Microbotryales
+506	SINTAX;k:Fungi
+507	UTAX;*
+508	EU002887;k:Fungi,p:Basidiomycota,c:Ustilaginomycetes,o:Ustilaginales,f:Anthracoideaceae,g:Farysia,s:Farysia acheniorum
+509	FJ515771;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Cordycipitaceae,g:Lecanicillium,s:Lecanicillium lecanii
+511	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+512	SINTAX;k:Fungi
+513	SINTAX;k:Fungi
+514	AB469880;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,g:Monographella,s:Monographella cucumerina
+515	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+516	UTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+517	GQ922566;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Polyporales,f:Meruliaceae,g:Bjerkandera
+518	KC343067;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Diaporthe,s:Diaporthe endophytica
+519	HQ637314;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia,s:Preussia pilosella
+521	SINTAX;k:Fungi
+522	SINTAX;k:Fungi
+523	GU055682;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+526	SINTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes
+527	SINTAX;k:Fungi
+529	DQ463346;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Agaricaceae,g:Cyathus,s:Cyathus hookeri
+531	UTAX;k:Fungi,p:Ascomycota
+537	KC865289;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Cryptococcus,s:Cryptococcus tephrensis
+538	SINTAX;k:Fungi,p:Mucoromycota,o:Mucorales,f:Pilobolaceae,g:Pilobolus,s:Pilobolus umbonatus
+539	No Hit
+540	HQ847051;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis ochraceolanata
+541	DQ667165;k:Fungi,p:Basidiomycota,c:Agaricostilbomycetes,o:Agaricostilbales,f:Kondoaceae,g:Kondoa,s:Kondoa malvinella
+542	SINTAX;k:Fungi
+544	KJ842594;k:Fungi
+547	GU183110;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Chaetomiaceae,g:Chaetomium,s:Chaetomium cristatum
+548	SINTAX;k:Fungi
+550	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+552	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+554	SINTAX;k:Fungi
+555	KJ869114;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Phaeosphaeria,s:Phaeosphaeria poagena
+559	SINTAX;k:Fungi
+560	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+561	SINTAX;k:Fungi
+562	AY943049;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Westerdykella,s:Westerdykella nigra
+563	SINTAX;k:Fungi
+564	SINTAX;k:Fungi
+566	UTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales
+568	KU746702;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Phialophora
+569	SINTAX;k:Fungi
+570	KJ827191;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+573	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+575	FJ025175;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Amphisphaeriaceae,g:Truncatella,s:Truncatella angustata
+576	UTAX;k:Fungi,p:Ascomycota
+577	SINTAX;k:Fungi
+578	SINTAX;k:Fungi,p:Basidiomycota,c:Ustilaginomycetes,o:Ustilaginales,f:Ustilaginaceae,g:Ustilago
+582	FJ590600;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Mucor,s:Mucor hiemalis
+584	SINTAX;k:Fungi
+590	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae
+591	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+592	JX401940;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+595	UTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+597	JX852358;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Chaetomiaceae,g:Chaetomium
+598	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+602	SINTAX;k:Fungi,p:Neocallimastigomycota,c:Neocallimastigomycetes,o:Neocallimastigales,f:Neocallimastigaceae
+604	AF444596;k:Fungi,p:Basidiomycota,c:Agaricostilbomycetes,o:Agaricostilbales,f:Kondoaceae,g:Kondoa
+606	SINTAX;k:Fungi,p:Ascomycota
+607	SINTAX;k:Fungi
+608	HQ847039;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis sclerotiorum
+609	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+611	KU164692;k:Fungi
+613	KC427042;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Microascaceae,g:Graphium,s:Graphium penicillioides
+616	SINTAX;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Ostropales
+618	KF617374;k:Fungi
+619	UTAX;k:Fungi,p:Ascomycota
+622	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+623	AY854962;k:Fungi,p:Basidiomycota,c:Exobasidiomycetes,o:Entylomatales,f:Entylomataceae,g:Entyloma,s:Entyloma browalliae
+625	HQ649990;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sarocladium
+626	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+628	SINTAX;k:Plantae
+629	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+631	KP891239;k:Fungi
+633	KT799182;k:Fungi,p:Basidiomycota,c:Wallemiomycetes,o:Wallemiales,f:Wallemiaceae,g:Wallemia
+634	JN159534;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinellus
+635	FJ755274;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Valsaceae,g:Valsa,s:Valsa sordida
+636	SINTAX;k:Fungi
+637	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+638	JQ889278;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,g:Dinemasporium,s:Dinemasporium pseudostrigosum
+639	No Hit
+640	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+642	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+643	SINTAX;k:Fungi
+645	HQ446088;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae
+646	LM652378;k:Fungi,p:Ascomycota,g:Gamsia,s:Gamsia aggregata
+647	No Hit
+648	DQ421093;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Strophariaceae,g:Agrocybe
+654	UTAX;k:Fungi,p:Ascomycota
+658	SINTAX;k:Fungi
+659	SINTAX;k:Fungi
+660	SINTAX;k:Fungi
+662	UDB015522;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Strophariaceae,g:Protostropharia,s:Protostropharia semiglobata
+663	SINTAX;k:Fungi
+665	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+666	No Hit
+667	GU055696;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium
+669	SINTAX;k:Fungi
+670	SINTAX;k:Fungi
+673	SINTAX;k:Fungi,p:Basidiomycota,c:Microbotryomycetes
+675	KT268963;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Montagnulaceae,g:Paraphaeosphaeria
+676	SINTAX;k:Fungi
+678	SINTAX;k:Plantae
+679	SINTAX;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Sporidiobolales,g:Rhodotorula
+680	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+681	FJ462759;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Diaporthe,s:Diaporthe longicolla
+683	FJ820801;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium
+685	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+686	KF381086;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinellus,s:Coprinellus micaceus
+687	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+689	SINTAX;k:Fungi,p:Ascomycota
+690	JF289146;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Aspergillus
+693	AF455533;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales,f:Dothioraceae,g:Aureobasidium,s:Aureobasidium pullulans
+694	KX082929;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Clonostachys,s:Clonostachys rosea
+696	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinellus
+697	SINTAX;k:Fungi
+698	AF444410;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Cryptococcus
+700	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+701	KX274240;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Tremateia
+702	UTAX;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,o:Cystobasidiales,f:Cystobasidiaceae
+705	EF504855;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+706	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+707	AF444630;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Leucosporidiales,f:Leucosporidiaceae,g:Leucosporidium
+709	GU054203;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Periconia
+710	FJ820573;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Agaricaceae
+711	FJ527034;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Cryptococcus
+712	AF444530;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Sporidiobolales,g:Rhodotorula,s:Rhodotorula fragaria
+713	EU718113;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Boletales,f:Sclerodermataceae,g:Pisolithus
+718	KC005774;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Phialophora,s:Phialophora livistonae
+719	KC510275;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Montagnulaceae,g:Paraconiothyrium
+723	AY999119;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Schizothecium,s:Schizothecium curvisporum
+726	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Montagnulaceae
+729	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+731	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+732	JN206049;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Mucor,s:Mucor flavus
+733	SINTAX;k:Fungi,p:Ascomycota
+734	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes
+735	EU484199;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Mucor,s:Mucor mucedo
+737	SINTAX;k:Fungi
+738	JX043059;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Hyaloscyphaceae
+739	AF444574;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,g:Curvibasidium,s:Curvibasidium cygneicollum
+740	GU073010;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Rhinocladiella
+742	UTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes
+747	UTAX;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales
+748	JF499833;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Catenulostroma,s:Catenulostroma hermanusense
+749	UTAX;k:Fungi,p:Ascomycota
+751	KJ158178;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium,s:Penicillium restrictum
+753	FJ755227;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,g:Panaeolus,s:Panaeolus papilionaceus
+754	AF260328;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Pyrenophora,s:Pyrenophora chaetomioides
+756	UTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+759	KM247513;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Sebacinales,f:Sebacinaceae
+760	GQ272637;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+762	SINTAX;k:Fungi
+765	SINTAX;k:Fungi
+768	UTAX;k:Fungi,p:Ascomycota
+770	SINTAX;k:Fungi
+771	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+773	AY854979;k:Fungi,p:Basidiomycota,c:Exobasidiomycetes,o:Entylomatales,f:Entylomataceae,g:Entyloma,s:Entyloma matricariae
+774	SINTAX;k:Fungi,p:Ascomycota
+777	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+779	AJ244276;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales,f:Dothioraceae,g:Pringsheimia,s:Pringsheimia euphorbiae
+781	UTAX;k:Fungi,p:Mucoromycota,o:Mortierellales,f:Mortierellaceae,g:Mortierella,s:Mortierella capitata
+782	EF505182;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Alternaria
+785	SINTAX;k:Fungi
+787	SINTAX;k:Fungi
+788	SINTAX;k:Fungi
+789	KC412006;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Hyaloscyphaceae,g:Calycina,s:Calycina claroflava
+790	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+793	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+797	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+798	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+800	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+801	SINTAX;k:Fungi,p:Ascomycota
+803	UTAX;k:Fungi,p:Ascomycota
+804	UTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes
+807	FJ466728;k:Fungi,p:Ascomycota,c:Sordariomycetes,f:Apiosporaceae,g:Arthrinium
+808	EU516854;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae
+809	EF635677;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Coniochaetales
+810	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium
+811	UTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium
+816	SINTAX;k:Fungi
+819	SINTAX;k:Fungi,p:Ascomycota
+820	AJ131785;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Onygenales,f:Onygenaceae,g:Castanedomyces,s:Castanedomyces australiensis
+829	JN943646;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Drechslera,s:Drechslera andersenii
+831	UTAX;k:Fungi,p:Ascomycota,c:Leotiomycetes
+832	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+833	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+834	SINTAX;k:Plantae
+835	UTAX;*
+838	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+839	KF251289;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Caryophylloseptoria,s:Caryophylloseptoria lychnidis
+840	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+841	AJ276056;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium,s:Penicillium glabrum
+843	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+845	KF636767;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Pyrenochaeta
+846	SINTAX;k:Fungi,p:Ascomycota
+847	EU142874;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Penicillium
+850	GU721875;k:Fungi,p:Ascomycota,c:Dothideomycetes
+853	SINTAX;k:Fungi
+854	SINTAX;k:Fungi,p:Neocallimastigomycota,c:Neocallimastigomycetes,o:Neocallimastigales,f:Neocallimastigaceae
+863	FR682366;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium
+864	KX776634;k:Fungi
+865	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+866	JX042827;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Coniochaetales,f:Coniochaetaceae,g:Coniochaeta
+867	SINTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales
+871	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+876	SINTAX;k:Fungi
+881	SINTAX;k:Fungi,p:Ascomycota,c:Leotiomycetes
+882	SINTAX;k:Fungi,p:Ascomycota
+884	KR014366;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+885	AF178399;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium
+886	JF424355;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+888	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+893	SINTAX;k:Fungi
+894	UTAX;*
+898	UTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Polyporales,f:Ganodermataceae,g:Ganoderma,s:Ganoderma australe
+902	UTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+904	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Microascaceae
+909	SINTAX;k:Fungi
+910	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+911	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+912	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+914	SINTAX;k:Fungi
+917	DQ923539;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Valsaceae,g:Valsa,s:Valsa fabianae
+918	AY999136;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Cercophora,s:Cercophora coprophila
+920	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+924	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+925	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Onygenales,f:Onygenaceae,g:Shanorella
+927	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+930	GU586848;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Chaetosphaeriales,f:Chaetosphaeriaceae,g:Chloridium
+931	GU237901;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Stagonosporopsis,s:Stagonosporopsis oculi-hominis
+932	FJ571431;k:Fungi,p:Ascomycota
+934	SINTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Ascobolaceae,g:Ascobolus,s:Ascobolus immersus
+935	HQ847035;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis filamentifera
+937	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+941	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+942	SINTAX;k:Fungi,p:Ascomycota
+945	SINTAX;k:Fungi
+948	JF432992;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Cladorrhinum
+950	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+951	SINTAX;k:Fungi,p:Ascomycota
+952	AJ496633;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae,g:Sigarispora,s:Sigarispora arundinis
+954	AY970145;k:Fungi,p:Basidiomycota,c:Tremellomycetes
+956	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+957	SINTAX;k:Fungi
+959	KM519376;k:Fungi,p:Ascomycota,c:Dothideomycetes
+960	UTAX;*
+961	SINTAX;k:Fungi
+962	LT602885;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Microbotryales,f:Ustilentylomataceae,g:Microbotryozyma
+963	KJ572140;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Ascochyta
+964	SINTAX;k:Fungi
+966	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae
+969	SINTAX;k:Fungi
+970	AY587918;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Lasiosphaeria,s:Lasiosphaeria lanuginosa
+972	SINTAX;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes
+973	SINTAX;k:Fungi
+975	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+978	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+981	EU035449;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,f:Venturiaceae,g:Venturia,s:Venturia atriseda
+983	UTAX;k:Protista,p:Cercozoa
+988	AY239214;k:Fungi,p:Ascomycota,c:Taphrinomycetes,o:Taphrinales,f:Taphrinaceae,g:Taphrina,s:Taphrina inositophila
+990	EU280138;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Hypocreaceae,g:Trichoderma,s:Trichoderma samuelsii
+991	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+993	EU164801;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Ramularia,s:Ramularia coccinea
+994	UTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales
+995	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+996	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+997	EU925387;k:Fungi,p:Ascomycota,g:Myriodontium,s:Myriodontium keratinophilum
+998	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+999	AF345821;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Agaricaceae,g:Coprinus,s:Coprinus sterquilinus
+1003	JX968250;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Bolbitiaceae,g:Bolbitius,s:Bolbitius elegans
+1004	UTAX;*
+1009	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+1010	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Microascaceae
+1013	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1016	HQ671306;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Lecanorales,f:Parmeliaceae,g:Usnea
+1017	SINTAX;k:Fungi,p:Ascomycota
+1024	KT268710;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Herpotrichia
+1025	UDB001580;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Strophariaceae,g:Hypholoma,s:Hypholoma fasciculare
+1027	SINTAX;k:Plantae
+1028	FR716597;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Trichosporonales,f:Trichosporonaceae,g:Trichosporon,s:Trichosporon dulcitum
+1030	SINTAX;k:Fungi
+1031	SINTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes
+1033	SINTAX;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae
+1036	SINTAX;k:Plantae
+1047	SINTAX;k:Fungi,p:Ascomycota
+1049	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1050	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1051	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes
+1052	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1053	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes
+1055	KU729096;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,g:Starmerella,s:Starmerella bombicola
+1059	UTAX;k:Fungi,p:Ascomycota
+1062	SINTAX;k:Fungi
+1065	SINTAX;k:Fungi
+1067	UTAX;k:Fungi,p:Basidiomycota
+1069	JF758860;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,o:Erythrobasidiales,g:Erythrobasidium,s:Erythrobasidium yunnanense
+1070	SINTAX;k:Fungi,p:Ascomycota
+1071	SINTAX;k:Fungi
+1072	SINTAX;k:Fungi
+1073	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+1074	SINTAX;k:Fungi
+1075	UTAX;*
+1076	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1081	AY805548;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Capnodiaceae,g:Capnodium
+1082	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1084	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales
+1087	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1088	SINTAX;k:Fungi,p:Ascomycota
+1091	SINTAX;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales
+1094	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Leptosphaeriaceae
+1097	HQ222031;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Clavariaceae,g:Ramariopsis,s:Ramariopsis flavescens
+1099	GU133330;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Naganishia
+1100	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae
+1102	KT268484;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1103	JN205992;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Ellisomyces,s:Ellisomyces anomalus
+1105	SINTAX;k:Fungi,p:Ascomycota
+1107	SINTAX;k:Fungi,p:Ascomycota
+1108	SINTAX;k:Fungi,p:Ascomycota
+1109	JX091485;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Talaromyces,s:Talaromyces chlorolomus
+1110	SINTAX;k:Fungi
+1112	JX043122;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+1114	SINTAX;k:Fungi
+1115	SINTAX;k:Fungi
+1117	EU754905;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+1119	UTAX;k:Fungi,p:Ascomycota
+1120	UTAX;k:Fungi,p:Ascomycota,c:Leotiomycetes
+1121	UTAX;k:Fungi,p:Ascomycota
+1124	SINTAX;k:Fungi
+1126	No Hit
+1127	UTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleraceae
+1130	SINTAX;k:Fungi,p:Ascomycota
+1131	SINTAX;k:Fungi,p:Ascomycota
+1132	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+1133	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1134	UTAX;k:Fungi,p:Ascomycota
+1136	SINTAX;k:Fungi
+1137	UTAX;k:Fungi,p:Basidiomycota,c:Agaricostilbomycetes,o:Agaricostilbales,f:Agaricostilbaceae,g:Bensingtonia
+1138	UTAX;k:Fungi,p:Ascomycota
+1139	SINTAX;k:Fungi,p:Ascomycota
+1140	FJ919774;k:Fungi,p:Basidiomycota,c:Ustilaginomycetes,o:Ustilaginales,f:Ustilaginaceae,g:Kalmanozyma,s:Kalmanozyma fusiformata
+1141	DQ900966;k:Fungi
+1145	SINTAX;k:Fungi
+1146	No Hit
+1152	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+1153	SINTAX;k:Fungi
+1156	SINTAX;k:Fungi
+1158	SINTAX;k:Fungi
+1159	SINTAX;k:Fungi
+1161	SINTAX;k:Fungi
+1162	KF251179;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Parastagonospora,s:Parastagonospora poae
+1165	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+1168	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1173	KU574713;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Periconia
+1177	No Hit
+1179	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1180	SINTAX;k:Protista,p:Cercozoa
+1181	GU054276;k:Fungi,p:Ascomycota
+1187	JN206080;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Mucor,s:Mucor plasmaticus
+1188	SINTAX;k:Fungi,p:Ascomycota
+1192	SINTAX;k:Fungi
+1194	SINTAX;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Sporidiobolales,g:Sporobolomyces,s:Sporobolomyces clavatus
+1195	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+1198	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Leptosphaeriaceae
+1199	SINTAX;k:Fungi,p:Ascomycota
+1201	SINTAX;k:Fungi,p:Ascomycota
+1202	SINTAX;k:Fungi
+1203	SINTAX;k:Fungi,p:Ascomycota,c:Taphrinomycetes,o:Taphrinales,f:Protomycetaceae,g:Protomyces
+1204	UTAX;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Sporidiobolales
+1205	SINTAX;k:Fungi,p:Ascomycota
+1206	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+1207	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1208	SINTAX;k:Fungi,p:Ascomycota
+1209	DQ182510;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Agaricaceae,g:Agaricus,s:Agaricus californicus
+1210	UDB020706;k:Fungi,p:Basidiomycota,o:Malasseziales,f:Malasseziaceae,g:Malassezia,s:Malassezia restricta
+1214	JN868118;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Amphisphaeriaceae,g:Pestalotiopsis
+1215	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1216	HM037956;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Talaromyces,s:Talaromyces aculeatus
+1217	KJ867219;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1218	SINTAX;k:Fungi
+1220	UTAX;k:Fungi,p:Ascomycota
+1221	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1222	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1223	SINTAX;k:Fungi,p:Ascomycota
+1227	FJ515608;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymellaceae,g:Calophoma,s:Calophoma complanata
+1228	SINTAX;k:Fungi,p:Ascomycota
+1229	SINTAX;k:Fungi
+1231	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1232	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1233	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1235	SINTAX;k:Fungi,p:Ascomycota
+1236	SINTAX;k:Fungi,p:Ascomycota
+1238	SINTAX;k:Fungi
+1240	SINTAX;k:Fungi
+1242	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1243	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1244	SINTAX;k:Fungi,p:Ascomycota
+1249	JN206070;k:Fungi,p:Mucoromycota,o:Mucorales,f:Mucoraceae,g:Mucor,s:Mucor flavus
+1250	UTAX;k:Fungi,p:Ascomycota
+1252	KF698741;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Polyporales,f:Fomitopsidaceae,g:Postia
+1254	KF428672;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+1255	SINTAX;k:Protista,p:Cercozoa
+1256	FJ237134;k:Fungi,p:Basidiomycota,c:Agaricostilbomycetes,o:Agaricostilbales,f:Chionosphaeraceae,g:Kurtzmanomyces
+1257	HM030633;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,g:Pilidium
+1259	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Didymella,s:Didymella fabae
+1260	SINTAX;k:Fungi,p:Ascomycota
+1261	FJ571478;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Phomopsis
+1264	UTAX;k:Fungi,p:Ascomycota
+1267	SINTAX;k:Fungi,p:Basidiomycota
+1269	SINTAX;k:Plantae
+1271	DQ389665;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Psathyrella,s:Psathyrella potteri
+1273	SINTAX;k:Fungi,p:Ascomycota
+1274	EU711180;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Clavicipitaceae,g:Metarhizium
+1276	SINTAX;k:Fungi,p:Ascomycota
+1277	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Russulales,f:Lachnocladiaceae,g:Dichostereum,s:Dichostereum durum
+1279	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1281	SINTAX;k:Fungi
+1283	UTAX;k:Fungi,p:Ascomycota
+1285	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1292	SINTAX;k:Fungi,p:Ascomycota
+1293	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+1297	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1298	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1301	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+1305	SINTAX;k:Fungi
+1306	SINTAX;k:Fungi,p:Ascomycota
+1308	GU212389;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,g:Cadophora
+1309	SINTAX;k:Fungi
+1310	SINTAX;k:Fungi,p:Ascomycota
+1315	SINTAX;k:Fungi
+1316	SINTAX;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales
+1318	SINTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Ascobolaceae,g:Ascobolus,s:Ascobolus immersus
+1319	SINTAX;k:Fungi
+1324	SINTAX;k:Fungi
+1331	SINTAX;k:Fungi
+1332	UTAX;k:Fungi,p:Ascomycota
+1334	SINTAX;k:Fungi
+1335	HQ829414;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Pyronemataceae
+1336	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1338	SINTAX;k:Fungi
+1340	SINTAX;k:Fungi
+1341	UTAX;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Leucosporidiales,f:Leucosporidiaceae
+1349	SINTAX;k:Fungi
+1352	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1361	SINTAX;k:Fungi
+1363	UTAX;k:Fungi,p:Ascomycota
+1364	SINTAX;k:Fungi
+1368	SINTAX;k:Fungi
+1371	SINTAX;k:Fungi
+1372	SINTAX;k:Fungi
+1379	JF747136;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Exophiala,s:Exophiala psychrophila
+1380	SINTAX;k:Fungi
+1384	SINTAX;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales
+1385	FJ820658;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Corticiales,f:Corticiaceae,g:Limonomyces
+1386	JN698875;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Davidiellaceae,g:Cladosporium
+1388	JX042764;k:Fungi,p:Basidiomycota,c:Microbotryomycetes
+1389	UTAX;k:Fungi,p:Ascomycota
+1390	SINTAX;k:Fungi,p:Ascomycota
+1391	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1394	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+1397	FJ820509;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Trechisporales,f:Hydnodontaceae,g:Trechispora
+1398	SINTAX;k:Fungi
+1399	SINTAX;k:Fungi
+1400	JN712456;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Dacampiaceae,g:Teichospora,s:Teichospora grandicipis
+1402	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1403	SINTAX;k:Fungi
+1404	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1406	UTAX;*
+1407	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricostilbomycetes,o:Spiculogloeales,f:Spiculogloeaceae,g:Phyllozyma,s:Phyllozyma linderae
+1408	JQ796854;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Lecanorales,f:Ramalinaceae,g:Bacidia,s:Bacidia delicata
+1409	SINTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes
+1410	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1411	FJ236017;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Drechslera
+1412	EU168110;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis
+1413	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae
+1414	JX158422;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium,s:Acremonium antarcticum
+1415	SINTAX;k:Fungi,p:Ascomycota
+1417	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1419	SINTAX;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes
+1421	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1422	SINTAX;k:Fungi
+1425	GU062310;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Schizophyllaceae,g:Schizophyllum,s:Schizophyllum commune
+1426	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1430	SINTAX;k:Chromista,p:Ciliophora
+1431	SINTAX;k:Fungi,p:Ascomycota
+1432	SINTAX;k:Fungi,p:Ascomycota
+1434	SINTAX;k:Fungi
+1435	SINTAX;k:Fungi,p:Ascomycota
+1436	EU490125;k:Fungi,p:Mucoromycota,o:Mucorales,f:Umbelopsidaceae,g:Umbelopsis
+1437	SINTAX;k:Fungi
+1438	DQ900965;k:Chromista,p:Ciliophora
+1440	KM374425;k:Fungi
+1441	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae
+1442	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1443	SINTAX;k:Fungi
+1444	SINTAX;k:Fungi
+1445	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora,s:Podospora longicaudata
+1446	SINTAX;k:Chromista,p:Ciliophora
+1447	KC311472;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+1448	SINTAX;k:Fungi,p:Ascomycota
+1449	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1450	SINTAX;k:Fungi
+1451	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1452	SINTAX;k:Fungi,p:Basidiomycota
+1454	SINTAX;k:Fungi,p:Basidiomycota
+1456	UTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Hypocreaceae,g:Acrostalagmus,s:Acrostalagmus luteoalbus
+1457	JQ348934;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Montagnulaceae
+1459	SINTAX;k:Fungi,p:Ascomycota
+1460	SINTAX;k:Fungi
+1461	SINTAX;k:Fungi,p:Ascomycota
+1462	SINTAX;k:Plantae,p:Anthophyta
+1464	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1465	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1466	SINTAX;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Trechisporales
+1468	UTAX;k:Fungi,p:Ascomycota
+1470	UTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1471	SINTAX;k:Fungi
+1472	GU909564;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+1473	UDB020434;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales
+1474	SINTAX;k:Fungi,p:Ascomycota
+1476	SINTAX;k:Fungi,p:Ascomycota
+1477	SINTAX;k:Fungi,p:Ascomycota
+1478	SINTAX;k:Fungi
+1479	SINTAX;k:Fungi
+1481	LT548264;k:Fungi,p:Basidiomycota,c:Microbotryomycetes,o:Heterogastridiales,f:Heterogastridiaceae,g:Colacogloea
+1482	SINTAX;k:Fungi,p:Ascomycota
+1484	SINTAX;k:Fungi
+1485	SINTAX;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Cryptococcus
+1486	DQ516081;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Clavicipitaceae,g:Pochonia
+1487	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1488	SINTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Ascobolaceae,g:Ascobolus,s:Ascobolus immersus
+1489	KM493635;k:Fungi
+1490	UTAX;k:Fungi,p:Ascomycota
+1492	SINTAX;k:Fungi
+1494	UTAX;k:Fungi,p:Ascomycota
+1497	GU213438;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,f:Saccharomycetaceae,g:Torulaspora
+1498	FJ827721;k:Fungi,p:Chytridiomycota,c:Chytridiomycetes,o:Spizellomycetales,f:Spizellomycetaceae,g:Triparticalcar
+1499	SINTAX;k:Fungi,p:Ascomycota
+1501	AF444595;k:Fungi,p:Basidiomycota,c:Agaricostilbomycetes,o:Agaricostilbales,f:Kondoaceae,g:Kondoa,s:Kondoa aeria
+1502	SINTAX;k:Fungi,p:Ascomycota
+1503	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1504	SINTAX;k:Fungi,p:Ascomycota
+1505	KM103305;k:Fungi,p:Ascomycota,c:Leotiomycetes,g:Chaetomella,s:Chaetomella raphigera
+1506	KR476744;k:Fungi,p:Ascomycota,c:Sordariomycetes,g:Myrmecridium,s:Myrmecridium iridis
+1507	SINTAX;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Sarcosomataceae
+1513	SINTAX;k:Fungi
+1514	SINTAX;k:Fungi
+1515	UTAX;k:Fungi,p:Ascomycota
+1519	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1520	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+1521	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1522	SINTAX;k:Fungi,p:Ascomycota
+1523	SINTAX;k:Fungi,p:Ascomycota
+1524	SINTAX;k:Fungi
+1525	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Leptosphaeriaceae
+1526	UTAX;*
+1529	SINTAX;k:Fungi,p:Ascomycota
+1531	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1532	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1536	SINTAX;k:Fungi,p:Ascomycota
+1537	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1538	SINTAX;k:Fungi
+1539	SINTAX;k:Fungi,p:Ascomycota
+1541	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1542	SINTAX;k:Fungi
+1544	SINTAX;k:Fungi,p:Ascomycota
+1550	UTAX;k:Fungi,p:Ascomycota
+1553	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1554	SINTAX;k:Fungi,p:Ascomycota
+1555	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1556	SINTAX;k:Fungi
+1558	SINTAX;k:Fungi
+1560	SINTAX;k:Fungi
+1562	UTAX;k:Fungi,p:Ascomycota
+1563	SINTAX;k:Fungi,p:Ascomycota
+1564	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1566	SINTAX;k:Fungi,p:Ascomycota
+1573	SINTAX;k:Fungi,p:Ascomycota
+1578	SINTAX;k:Fungi,p:Ascomycota
+1581	SINTAX;k:Fungi,p:Ascomycota
+1582	EF682109;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium,s:Fusarium poae
+1583	SINTAX;k:Fungi,p:Ascomycota
+1587	UTAX;k:Fungi,p:Ascomycota
+1589	SINTAX;k:Fungi,p:Ascomycota
+1590	SINTAX;k:Fungi,p:Ascomycota
+1592	SINTAX;k:Fungi
+1593	KT197663;k:Fungi
+1597	SINTAX;k:Fungi,p:Ascomycota
+1603	SINTAX;k:Fungi,p:Ascomycota
+1604	SINTAX;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Exophiala
+1605	UTAX;k:Fungi,p:Ascomycota
+1606	SINTAX;k:Fungi,p:Ascomycota
+1607	SINTAX;k:Fungi
+1609	SINTAX;k:Plantae
+1611	SINTAX;k:Fungi
+1612	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+1613	SINTAX;k:Fungi
+1615	SINTAX;k:Fungi
+1617	SINTAX;k:Fungi
+1618	SINTAX;k:Fungi,p:Ascomycota
+1624	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Microascaceae
+1629	SINTAX;k:Fungi,p:Ascomycota
+1632	UTAX;k:Fungi,p:Ascomycota
+1638	SINTAX;k:Fungi
+1640	SINTAX;k:Fungi,p:Ascomycota
+1644	SINTAX;k:Fungi
+1651	SINTAX;k:Fungi,p:Ascomycota
+1653	SINTAX;k:Fungi,p:Ascomycota
+1657	AB255295;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+1661	GU133332;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,g:Wickerhamomyces
+1663	SINTAX;k:Fungi,p:Ascomycota
+1667	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes
+1673	SINTAX;k:Fungi,p:Ascomycota
+1674	SINTAX;k:Fungi,p:Ascomycota
+1675	SINTAX;k:Fungi
+1676	SINTAX;k:Fungi
+1680	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1681	SINTAX;k:Fungi
+1682	SINTAX;k:Fungi,p:Ascomycota,c:Sordariomycetes
+1685	SINTAX;k:Fungi
+1689	SINTAX;k:Fungi
+1692	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1694	JN942680;k:Fungi,p:Mucoromycota,o:Mucorales,f:Cunninghamellaceae,g:Absidia,s:Absidia glauca
+1695	SINTAX;k:Fungi,p:Ascomycota
+1698	SINTAX;k:Fungi
+1699	SINTAX;k:Fungi
+1701	SINTAX;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+1703	SINTAX;k:Fungi
+1704	SINTAX;k:Fungi,p:Ascomycota
+1706	SINTAX;k:Fungi,p:Ascomycota
+1712	SINTAX;k:Fungi
+1716	FJ861405;k:Fungi,p:Mucoromycota,o:Mortierellales,f:Mortierellaceae,g:Mortierella
+1717	UTAX;k:Fungi,p:Ascomycota

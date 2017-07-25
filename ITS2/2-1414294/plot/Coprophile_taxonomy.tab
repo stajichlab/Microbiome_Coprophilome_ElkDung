@@ -1,0 +1,956 @@
+	Kingdom	Phylum	Class	Order	Family	Genus	Species
+0	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Thelebolaceae	Thelebolus	NA
+2	Fungi	Ascomycota	NA	NA	NA	NA	NA
+3	Fungi	NA	NA	NA	NA	NA	NA
+4	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+5	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascobolaceae	Ascobolus	Ascobolus immersus
+6	Fungi	NA	NA	NA	NA	NA	NA
+7	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+8	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Thelebolaceae	NA	NA
+9	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	NA	NA
+10	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis lagopus
+11	Fungi	Mucoromycota	NA	Mucorales	Pilobolaceae	Pilobolus	Pilobolus kleinii
+12	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis sclerotiger
+13	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinellus	Coprinellus heptemerus
+14	Fungi	Ascomycota	Pezizomycetes	NA	NA	NA	NA
+15	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis stercorea
+16	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Arnium	Arnium arizonense
+17	Fungi	Ascomycota	NA	NA	NA	NA	NA
+18	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	Scedosporium prolificans
+19	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Acremonium	Acremonium chrysogenum
+20	Fungi	Ascomycota	NA	NA	NA	NA	NA
+21	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	NA
+22	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+24	Fungi	NA	NA	NA	NA	NA	NA
+25	Fungi	Mucoromycota	NA	Mucorales	Pilobolaceae	Pilobolus	Pilobolus crystallinus
+26	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormiella	Sporormiella minimoides
+27	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pezizaceae	NA	NA
+28	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+29	Fungi	NA	NA	NA	NA	NA	NA
+30	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormiella	Sporormiella megalospora
+31	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Davidiellaceae	Cladosporium	NA
+32	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora pleiospora
+33	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	Leptosphaeria	NA
+34	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	NA
+35	Fungi	Ascomycota	Pezizomycetes	Pezizales	NA	NA	NA
+36	Fungi	Ascomycota	NA	NA	NA	NA	NA
+37	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Pilaira	Pilaira anomala
+38	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	NA	NA
+39	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormiella	Sporormiella australis
+40	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Coprinus	NA
+41	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Parasola	NA
+43	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria infectoria
+44	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Montagnulaceae	Paraphaeosphaeria	Paraphaeosphaeria neglecta
+46	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Candida	Candida vadensis
+48	Fungi	Ascomycota	NA	NA	NA	NA	NA
+50	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	NA	NA
+51	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Sordaria	Sordaria fimicola
+52	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascobolaceae	Ascobolus	Ascobolus furfuraceus
+53	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+54	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinellus	Coprinellus congregatus
+55	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium redolens
+56	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinellus	NA
+58	Fungi	Ascomycota	NA	NA	NA	NA	NA
+59	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Dipodascus	Dipodascus geotrichum
+60	Fungi	NA	NA	NA	NA	NA	NA
+61	NA	NA	NA	NA	NA	NA	NA
+63	Fungi	Ascomycota	NA	NA	NA	NA	NA
+64	Fungi	Ascomycota	NA	NA	NA	NA	NA
+66	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	NA
+67	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Boeremia	Boeremia exigua
+68	Fungi	Ascomycota	NA	NA	NA	NA	NA
+69	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	NA	NA
+70	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	NA	NA
+71	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Pilidium	Pilidium concavum
+73	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+74	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Sarocladium	Sarocladium strictum
+76	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+77	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	NA	NA
+78	Fungi	Ascomycota	Sordariomycetes	NA	Plectosphaerellaceae	Plectosphaerella	NA
+79	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+82	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+84	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	Leptosphaeria	NA
+85	Fungi	Mucoromycota	NA	Mucorales	Pilobolaceae	Pilobolus	NA
+86	Fungi	Ascomycota	NA	NA	NA	NA	NA
+87	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+88	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium oxysporum
+89	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	Cryptococcus frias
+90	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Botrytis	NA
+91	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	NA	NA
+92	Fungi	Basidiomycota	Tremellomycetes	Holtermanniales	NA	Holtermanniella	Holtermanniella takashimae
+93	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	Lophiostoma	NA
+95	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+96	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Wickerhamomyces	Wickerhamomyces rabaulensis
+98	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+100	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+101	Fungi	Ascomycota	Taphrinomycetes	NA	NA	NA	NA
+103	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	Preussia minipascua
+104	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	NA	NA
+105	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Onygenaceae	Chrysosporium	Chrysosporium lobatum
+106	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	NA	NA
+107	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Protomycetaceae	Protomyces	Protomyces inouyei
+108	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+110	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+112	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Selinia	Selinia pulchra
+113	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+116	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	Cystobasidium slooffiae
+117	NA	NA	NA	NA	NA	NA	NA
+118	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+119	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+120	Fungi	NA	NA	NA	NA	NA	NA
+121	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Bolbitiaceae	Conocybe	Conocybe rickenii
+123	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	NA
+126	NA	NA	NA	NA	NA	NA	NA
+127	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascobolaceae	Ascobolus	Ascobolus furfuraceus
+128	Fungi	NA	NA	NA	NA	NA	NA
+129	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Gibberella	Gibberella tricincta
+130	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	NA	NA
+131	Fungi	NA	NA	NA	NA	NA	NA
+132	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis stercorea
+133	Fungi	NA	NA	NA	NA	NA	NA
+134	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Acremonium	NA
+137	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+138	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Cyathicula	Cyathicula culmicola
+139	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Ustilago	Ustilago striiformis
+142	Fungi	Ascomycota	Sordariomycetes	Xylariales	NA	NA	NA
+143	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Ascochyta	NA
+144	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Cystofilobasidium	Cystofilobasidium macerans
+146	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium chrysogenum
+147	Fungi	Basidiomycota	Cystobasidiomycetes	NA	NA	NA	NA
+151	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	NA	NA
+154	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Chaetothyriaceae	Cyphellophora	NA
+155	Fungi	NA	NA	NA	NA	NA	NA
+156	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormiella	Sporormiella australis
+157	Fungi	Basidiomycota	Agaricomycetes	Agaricales	NA	Panaeolus	Panaeolus papilionaceus
+158	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+163	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	NA
+164	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Gibberella	Gibberella coronicola
+165	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora austrohemisphaerica
+166	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	Lophiostoma	Lophiostoma compressum
+167	Plantae	NA	NA	NA	NA	NA	NA
+169	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Stilbella	Stilbella fimetaria
+170	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	NA	NA
+171	Fungi	NA	NA	NA	NA	NA	NA
+172	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	Orpinomyces	NA
+173	Fungi	Ascomycota	NA	NA	NA	NA	NA
+174	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium culmorum
+175	NA	NA	NA	NA	NA	NA	NA
+176	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora pyriformis
+178	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Pilaira	Pilaira anomala
+179	Fungi	Basidiomycota	Ustilaginomycetes	Urocystidales	Urocystidaceae	Urocystis	Urocystis agropyri
+182	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Phanerochaetaceae	Antrodiella	Antrodiella semisupina
+183	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	Cryptococcus aureus
+184	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinellus	Coprinellus sassii
+185	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+186	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+193	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+194	Fungi	NA	NA	NA	NA	NA	NA
+195	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	NA	NA
+199	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	Cryptococcus podzolicus
+201	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Filobasidium	NA
+205	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+206	Fungi	NA	NA	NA	NA	NA	NA
+207	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	NA	NA
+208	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+209	Fungi	Ascomycota	Sordariomycetes	NA	Plectosphaerellaceae	Lectera	NA
+210	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	NA	NA
+214	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	NA	NA
+215	Fungi	NA	NA	NA	NA	NA	NA
+217	Fungi	Ascomycota	Sordariomycetes	Chaetosphaeriales	Chaetosphaeriaceae	NA	NA
+220	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	NA
+221	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Agaricostilbaceae	Bensingtonia	NA
+222	NA	NA	NA	NA	NA	NA	NA
+225	Fungi	Ascomycota	Sordariomycetes	NA	Plectosphaerellaceae	Gibellulopsis	Gibellulopsis nigrescens
+227	Fungi	Ascomycota	NA	NA	NA	NA	NA
+229	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+230	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+231	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	Beauveria bassiana
+232	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+234	Fungi	Ascomycota	Lecanoromycetes	Ostropales	NA	NA	NA
+235	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+236	Fungi	Mucoromycota	NA	Mucorales	NA	NA	NA
+238	Fungi	Mucoromycota	NA	Mucorales	Pilobolaceae	Pilobolus	Pilobolus kleinii
+239	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+244	Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	Microbotryaceae	Microbotryum	Microbotryum kuehneanum
+245	Fungi	NA	NA	NA	NA	NA	NA
+246	Fungi	Ascomycota	NA	NA	NA	NA	NA
+247	Fungi	Basidiomycota	Cystobasidiomycetes	NA	NA	NA	NA
+250	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+251	Fungi	Basidiomycota	Microbotryomycetes	Leucosporidiales	Leucosporidiaceae	Mastigobasidium	NA
+253	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Mucor	Mucor fragilis
+255	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+258	Fungi	Basidiomycota	Agaricomycetes	Russulales	Stephanosporaceae	Cristinia	NA
+260	Fungi	Ascomycota	Pezizomycetes	NA	NA	NA	NA
+261	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	NA	NA
+262	Fungi	Ascomycota	Pezizomycetes	Pezizales	NA	NA	NA
+263	Fungi	NA	NA	NA	NA	NA	NA
+264	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Humicola	NA
+265	Fungi	NA	NA	NA	NA	NA	NA
+267	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora curvicolla
+270	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Protomycetaceae	Protomyces	NA
+271	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+272	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+273	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis candidolanata
+275	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	NA	NA	NA
+276	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	NA
+277	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+278	Fungi	NA	NA	NA	NA	NA	NA
+279	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Sporormiella	Sporormiella irregularis
+281	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+282	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	NA	NA	NA
+284	Fungi	NA	NA	NA	NA	NA	NA
+286	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Vishniacozyma	Vishniacozyma dimennae
+288	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	NA	Sporobolomyces	NA
+289	NA	NA	NA	NA	NA	NA	NA
+292	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Cadophora	NA
+293	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	NA	NA
+294	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Cordyceps	Cordyceps memorabilis
+296	Fungi	Ascomycota	NA	NA	NA	NA	NA
+303	Fungi	Ascomycota	NA	NA	NA	NA	NA
+304	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	NA
+306	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	NA	NA
+307	Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	NA	NA	NA
+310	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Bullera	Bullera unica
+312	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Parasola	Parasola hercules
+313	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	NA
+314	Fungi	NA	NA	NA	NA	NA	NA
+315	Fungi	Ascomycota	NA	NA	NA	NA	NA
+316	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	NA	NA
+317	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Roussoella	NA
+319	NA	NA	NA	NA	NA	NA	NA
+321	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Tetracladium	Tetracladium marchalianum
+322	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+323	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+324	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+325	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	NA
+327	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	NA	NA
+329	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+331	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis cinerea
+332	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	Piromyces	NA
+333	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Humicola	NA
+334	NA	NA	NA	NA	NA	NA	NA
+335	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	NA
+337	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+338	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Psilocybe	Psilocybe coprophila
+340	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium brevicompactum
+346	Fungi	NA	NA	NA	NA	NA	NA
+347	Fungi	Ascomycota	NA	NA	NA	NA	NA
+348	Fungi	NA	NA	NA	NA	NA	NA
+350	Fungi	NA	NA	NA	NA	NA	NA
+351	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Gnomoniaceae	Ambarignomonia	Ambarignomonia petiolorum
+352	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascobolaceae	NA	NA
+353	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+356	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+357	Fungi	Ascomycota	NA	NA	NA	NA	NA
+359	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	NA
+361	Plantae	NA	NA	NA	NA	NA	NA
+362	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+364	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Dioszegia	Dioszegia buhagiarii
+367	Fungi	Ascomycota	Eurotiomycetes	Onygenales	NA	NA	NA
+369	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+370	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Mucor	Mucor hiemalis
+371	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	Phaeosphaeria juncicola
+375	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Stachybotrys	NA
+379	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis patouillardii
+380	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+381	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+382	Fungi	NA	NA	NA	NA	NA	NA
+383	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	NA
+385	NA	NA	NA	NA	NA	NA	NA
+387	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Naganishia	Naganishia cerealis
+389	Fungi	NA	NA	NA	NA	NA	NA
+390	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+394	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Stephanonectria	Stephanonectria keithii
+395	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	NA	NA
+396	Fungi	NA	NA	NA	NA	NA	NA
+397	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	NA
+398	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+401	Fungi	Ascomycota	NA	NA	NA	NA	NA
+402	Protista	NA	NA	NA	NA	NA	NA
+404	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	NA	NA
+405	Fungi	NA	NA	NA	NA	NA	NA
+407	Fungi	Mucoromycota	NA	Mucorales	Pilobolaceae	Pilobolus	Pilobolus crystallinus
+409	Fungi	Basidiomycota	Exobasidiomycetes	Entylomatales	Entylomataceae	Entyloma	NA
+410	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+411	Fungi	NA	NA	NA	NA	NA	NA
+412	Fungi	NA	NA	NA	NA	NA	NA
+414	Fungi	NA	NA	NA	NA	NA	NA
+417	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+418	Fungi	NA	NA	NA	NA	NA	NA
+419	Fungi	NA	NA	NA	NA	NA	NA
+420	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Metschnikowia	Metschnikowia cibodasensis
+421	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascobolaceae	Ascobolus	Ascobolus immersus
+422	Fungi	NA	NA	NA	NA	NA	NA
+428	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Tremella	NA
+429	Plantae	NA	NA	NA	NA	NA	NA
+431	Plantae	NA	NA	NA	NA	NA	NA
+432	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Bolbitiaceae	Conocybe	Conocybe bulbifera
+433	Fungi	NA	NA	NA	NA	NA	NA
+434	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+436	Fungi	Ascomycota	NA	NA	NA	NA	NA
+437	NA	NA	NA	NA	NA	NA	NA
+439	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+440	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Occultifur	NA
+443	Plantae	NA	NA	NA	NA	NA	NA
+445	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+449	Fungi	Ascomycota	NA	NA	NA	NA	NA
+453	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Massarinaceae	Keissleriella	NA
+455	Fungi	NA	NA	NA	NA	NA	NA
+457	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+458	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+461	Fungi	NA	NA	NA	NA	NA	NA
+462	Fungi	Ascomycota	Sordariomycetes	Xylariales	NA	NA	NA
+463	Fungi	Ascomycota	NA	NA	NA	NA	NA
+465	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+467	Plantae	NA	NA	NA	NA	NA	NA
+471	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	NA	NA
+472	Plantae	NA	NA	NA	NA	NA	NA
+475	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Ramularia	Ramularia eucalypti
+477	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Ascochyta	NA
+479	Fungi	Ascomycota	NA	NA	NA	NA	NA
+481	Fungi	NA	NA	NA	NA	NA	NA
+483	Fungi	Ascomycota	NA	NA	NA	NA	NA
+485	Fungi	Ascomycota	NA	NA	NA	NA	NA
+490	Fungi	Basidiomycota	Microbotryomycetes	Leucosporidiales	Leucosporidiaceae	Leucosporidiella	Leucosporidiella muscorum
+491	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	Phaeosphaeria pontiformis
+493	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium atrosanguineum
+494	Fungi	NA	NA	NA	NA	NA	NA
+496	Fungi	NA	NA	NA	NA	NA	NA
+497	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascobolaceae	Ascobolus	Ascobolus crenulatus
+498	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	NA
+499	Fungi	NA	NA	NA	NA	NA	NA
+501	Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	NA	NA	NA
+506	Fungi	NA	NA	NA	NA	NA	NA
+507	NA	NA	NA	NA	NA	NA	NA
+508	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Anthracoideaceae	Farysia	Farysia acheniorum
+509	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Lecanicillium	Lecanicillium lecanii
+511	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+512	Fungi	NA	NA	NA	NA	NA	NA
+513	Fungi	NA	NA	NA	NA	NA	NA
+514	Fungi	Ascomycota	Sordariomycetes	Xylariales	NA	Monographella	Monographella cucumerina
+515	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+516	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+517	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Bjerkandera	NA
+518	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Diaporthaceae	Diaporthe	Diaporthe endophytica
+519	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	Preussia pilosella
+521	Fungi	NA	NA	NA	NA	NA	NA
+522	Fungi	NA	NA	NA	NA	NA	NA
+523	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+526	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+527	Fungi	NA	NA	NA	NA	NA	NA
+529	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Cyathus	Cyathus hookeri
+531	Fungi	Ascomycota	NA	NA	NA	NA	NA
+537	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	Cryptococcus tephrensis
+538	Fungi	Mucoromycota	NA	Mucorales	Pilobolaceae	Pilobolus	Pilobolus umbonatus
+539	NA	NA	NA	NA	NA	NA	NA
+540	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis ochraceolanata
+541	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Kondoaceae	Kondoa	Kondoa malvinella
+542	Fungi	NA	NA	NA	NA	NA	NA
+544	Fungi	NA	NA	NA	NA	NA	NA
+547	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	Chaetomium cristatum
+548	Fungi	NA	NA	NA	NA	NA	NA
+550	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+552	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+554	Fungi	NA	NA	NA	NA	NA	NA
+555	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	Phaeosphaeria poagena
+559	Fungi	NA	NA	NA	NA	NA	NA
+560	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+561	Fungi	NA	NA	NA	NA	NA	NA
+562	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Westerdykella	Westerdykella nigra
+563	Fungi	NA	NA	NA	NA	NA	NA
+564	Fungi	NA	NA	NA	NA	NA	NA
+566	Fungi	Basidiomycota	Agaricomycetes	Agaricales	NA	NA	NA
+568	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Phialophora	NA
+569	Fungi	NA	NA	NA	NA	NA	NA
+570	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+573	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+575	Fungi	Ascomycota	Sordariomycetes	Xylariales	Amphisphaeriaceae	Truncatella	Truncatella angustata
+576	Fungi	Ascomycota	NA	NA	NA	NA	NA
+577	Fungi	NA	NA	NA	NA	NA	NA
+578	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Ustilago	NA
+582	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Mucor	Mucor hiemalis
+584	Fungi	NA	NA	NA	NA	NA	NA
+590	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+591	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+592	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+595	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+597	Fungi	Ascomycota	Sordariomycetes	Sordariales	Chaetomiaceae	Chaetomium	NA
+598	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+602	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	NA	NA
+604	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Kondoaceae	Kondoa	NA
+606	Fungi	Ascomycota	NA	NA	NA	NA	NA
+607	Fungi	NA	NA	NA	NA	NA	NA
+608	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis sclerotiorum
+609	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+611	Fungi	NA	NA	NA	NA	NA	NA
+613	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Graphium	Graphium penicillioides
+616	Fungi	Ascomycota	Lecanoromycetes	Ostropales	NA	NA	NA
+618	Fungi	NA	NA	NA	NA	NA	NA
+619	Fungi	Ascomycota	NA	NA	NA	NA	NA
+622	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+623	Fungi	Basidiomycota	Exobasidiomycetes	Entylomatales	Entylomataceae	Entyloma	Entyloma browalliae
+625	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Sarocladium	NA
+626	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+628	Plantae	NA	NA	NA	NA	NA	NA
+629	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+631	Fungi	NA	NA	NA	NA	NA	NA
+633	Fungi	Basidiomycota	Wallemiomycetes	Wallemiales	Wallemiaceae	Wallemia	NA
+634	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinellus	NA
+635	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Valsaceae	Valsa	Valsa sordida
+636	Fungi	NA	NA	NA	NA	NA	NA
+637	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+638	Fungi	Ascomycota	Sordariomycetes	Xylariales	NA	Dinemasporium	Dinemasporium pseudostrigosum
+639	NA	NA	NA	NA	NA	NA	NA
+640	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+642	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+643	Fungi	NA	NA	NA	NA	NA	NA
+645	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+646	Fungi	Ascomycota	NA	NA	NA	Gamsia	Gamsia aggregata
+647	NA	NA	NA	NA	NA	NA	NA
+648	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Agrocybe	NA
+654	Fungi	Ascomycota	NA	NA	NA	NA	NA
+658	Fungi	NA	NA	NA	NA	NA	NA
+659	Fungi	NA	NA	NA	NA	NA	NA
+660	Fungi	NA	NA	NA	NA	NA	NA
+662	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Protostropharia	Protostropharia semiglobata
+663	Fungi	NA	NA	NA	NA	NA	NA
+665	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+666	NA	NA	NA	NA	NA	NA	NA
+667	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Acremonium	NA
+669	Fungi	NA	NA	NA	NA	NA	NA
+670	Fungi	NA	NA	NA	NA	NA	NA
+673	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	NA	NA
+675	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Montagnulaceae	Paraphaeosphaeria	NA
+676	Fungi	NA	NA	NA	NA	NA	NA
+678	Plantae	NA	NA	NA	NA	NA	NA
+679	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	NA	Rhodotorula	NA
+680	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+681	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Diaporthaceae	Diaporthe	Diaporthe longicolla
+683	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	NA
+685	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+686	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinellus	Coprinellus micaceus
+687	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+689	Fungi	Ascomycota	NA	NA	NA	NA	NA
+690	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Aspergillus	NA
+693	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	Aureobasidium	Aureobasidium pullulans
+694	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Bionectriaceae	Clonostachys	Clonostachys rosea
+696	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinellus	NA
+697	Fungi	NA	NA	NA	NA	NA	NA
+698	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	NA
+700	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+701	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Tremateia	NA
+702	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	NA	NA
+705	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+706	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+707	Fungi	Basidiomycota	Microbotryomycetes	Leucosporidiales	Leucosporidiaceae	Leucosporidium	NA
+709	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Periconia	NA
+710	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	NA	NA
+711	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	NA
+712	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	NA	Rhodotorula	Rhodotorula fragaria
+713	Fungi	Basidiomycota	Agaricomycetes	Boletales	Sclerodermataceae	Pisolithus	NA
+718	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Phialophora	Phialophora livistonae
+719	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Montagnulaceae	Paraconiothyrium	NA
+723	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Schizothecium	Schizothecium curvisporum
+726	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Montagnulaceae	NA	NA
+729	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+731	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+732	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Mucor	Mucor flavus
+733	Fungi	Ascomycota	NA	NA	NA	NA	NA
+734	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+735	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Mucor	Mucor mucedo
+737	Fungi	NA	NA	NA	NA	NA	NA
+738	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	NA	NA
+739	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	Curvibasidium	Curvibasidium cygneicollum
+740	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Rhinocladiella	NA
+742	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+747	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	NA	NA
+748	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Catenulostroma	Catenulostroma hermanusense
+749	Fungi	Ascomycota	NA	NA	NA	NA	NA
+751	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium restrictum
+753	Fungi	Basidiomycota	Agaricomycetes	Agaricales	NA	Panaeolus	Panaeolus papilionaceus
+754	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Pyrenophora	Pyrenophora chaetomioides
+756	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+759	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae	NA	NA
+760	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+762	Fungi	NA	NA	NA	NA	NA	NA
+765	Fungi	NA	NA	NA	NA	NA	NA
+768	Fungi	Ascomycota	NA	NA	NA	NA	NA
+770	Fungi	NA	NA	NA	NA	NA	NA
+771	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+773	Fungi	Basidiomycota	Exobasidiomycetes	Entylomatales	Entylomataceae	Entyloma	Entyloma matricariae
+774	Fungi	Ascomycota	NA	NA	NA	NA	NA
+777	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+779	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	Pringsheimia	Pringsheimia euphorbiae
+781	Fungi	Mucoromycota	NA	Mortierellales	Mortierellaceae	Mortierella	Mortierella capitata
+782	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	NA
+785	Fungi	NA	NA	NA	NA	NA	NA
+787	Fungi	NA	NA	NA	NA	NA	NA
+788	Fungi	NA	NA	NA	NA	NA	NA
+789	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Calycina	Calycina claroflava
+790	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+793	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+797	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+798	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+800	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+801	Fungi	Ascomycota	NA	NA	NA	NA	NA
+803	Fungi	Ascomycota	NA	NA	NA	NA	NA
+804	Fungi	Ascomycota	Eurotiomycetes	NA	NA	NA	NA
+807	Fungi	Ascomycota	Sordariomycetes	NA	Apiosporaceae	Arthrinium	NA
+808	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	NA	NA
+809	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	NA	NA	NA
+810	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	NA
+811	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Acremonium	NA
+816	Fungi	NA	NA	NA	NA	NA	NA
+819	Fungi	Ascomycota	NA	NA	NA	NA	NA
+820	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Onygenaceae	Castanedomyces	Castanedomyces australiensis
+829	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Drechslera	Drechslera andersenii
+831	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+832	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+833	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+834	Plantae	NA	NA	NA	NA	NA	NA
+835	NA	NA	NA	NA	NA	NA	NA
+838	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+839	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Caryophylloseptoria	Caryophylloseptoria lychnidis
+840	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+841	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	Penicillium glabrum
+843	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+845	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Pyrenochaeta	NA
+846	Fungi	Ascomycota	NA	NA	NA	NA	NA
+847	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Penicillium	NA
+850	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+853	Fungi	NA	NA	NA	NA	NA	NA
+854	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	NA	NA
+863	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Acremonium	NA
+864	Fungi	NA	NA	NA	NA	NA	NA
+865	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+866	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	NA
+867	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+871	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+876	Fungi	NA	NA	NA	NA	NA	NA
+881	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+882	Fungi	Ascomycota	NA	NA	NA	NA	NA
+884	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+885	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	NA
+886	Fungi	Ascomycota	Sordariomycetes	Xylariales	NA	NA	NA
+888	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+893	Fungi	NA	NA	NA	NA	NA	NA
+894	NA	NA	NA	NA	NA	NA	NA
+898	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Ganodermataceae	Ganoderma	Ganoderma australe
+902	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+904	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	NA	NA
+909	Fungi	NA	NA	NA	NA	NA	NA
+910	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+911	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+912	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+914	Fungi	NA	NA	NA	NA	NA	NA
+917	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Valsaceae	Valsa	Valsa fabianae
+918	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Cercophora	Cercophora coprophila
+920	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+924	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+925	Fungi	Ascomycota	Eurotiomycetes	Onygenales	Onygenaceae	Shanorella	NA
+927	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+930	Fungi	Ascomycota	Sordariomycetes	Chaetosphaeriales	Chaetosphaeriaceae	Chloridium	NA
+931	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Stagonosporopsis	Stagonosporopsis oculi-hominis
+932	Fungi	Ascomycota	NA	NA	NA	NA	NA
+934	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascobolaceae	Ascobolus	Ascobolus immersus
+935	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	Coprinopsis filamentifera
+937	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+941	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+942	Fungi	Ascomycota	NA	NA	NA	NA	NA
+945	Fungi	NA	NA	NA	NA	NA	NA
+948	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Cladorrhinum	NA
+950	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+951	Fungi	Ascomycota	NA	NA	NA	NA	NA
+952	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Lophiostomataceae	Sigarispora	Sigarispora arundinis
+954	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+956	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+957	Fungi	NA	NA	NA	NA	NA	NA
+959	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+960	NA	NA	NA	NA	NA	NA	NA
+961	Fungi	NA	NA	NA	NA	NA	NA
+962	Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	Ustilentylomataceae	Microbotryozyma	NA
+963	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Ascochyta	NA
+964	Fungi	NA	NA	NA	NA	NA	NA
+966	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	NA	NA
+969	Fungi	NA	NA	NA	NA	NA	NA
+970	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Lasiosphaeria	Lasiosphaeria lanuginosa
+972	Fungi	Basidiomycota	Cystobasidiomycetes	NA	NA	NA	NA
+973	Fungi	NA	NA	NA	NA	NA	NA
+975	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+978	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+981	Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	Venturia	Venturia atriseda
+983	Protista	Cercozoa	NA	NA	NA	NA	NA
+988	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	Taphrina	Taphrina inositophila
+990	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma samuelsii
+991	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+993	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Ramularia	Ramularia coccinea
+994	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	NA	NA
+995	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+996	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+997	Fungi	Ascomycota	NA	NA	NA	Myriodontium	Myriodontium keratinophilum
+998	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+999	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Coprinus	Coprinus sterquilinus
+1003	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Bolbitiaceae	Bolbitius	Bolbitius elegans
+1004	NA	NA	NA	NA	NA	NA	NA
+1009	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+1010	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	NA	NA
+1013	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1016	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Parmeliaceae	Usnea	NA
+1017	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1024	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Herpotrichia	NA
+1025	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Hypholoma	Hypholoma fasciculare
+1027	Plantae	NA	NA	NA	NA	NA	NA
+1028	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Trichosporon	Trichosporon dulcitum
+1030	Fungi	NA	NA	NA	NA	NA	NA
+1031	Fungi	Basidiomycota	Tremellomycetes	NA	NA	NA	NA
+1033	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	NA	NA
+1036	Plantae	NA	NA	NA	NA	NA	NA
+1047	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1049	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1050	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1051	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+1052	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1053	Fungi	Basidiomycota	Agaricomycetes	NA	NA	NA	NA
+1055	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Starmerella	Starmerella bombicola
+1059	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1062	Fungi	NA	NA	NA	NA	NA	NA
+1065	Fungi	NA	NA	NA	NA	NA	NA
+1067	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+1069	Fungi	Basidiomycota	Cystobasidiomycetes	Erythrobasidiales	NA	Erythrobasidium	Erythrobasidium yunnanense
+1070	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1071	Fungi	NA	NA	NA	NA	NA	NA
+1072	Fungi	NA	NA	NA	NA	NA	NA
+1073	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+1074	Fungi	NA	NA	NA	NA	NA	NA
+1075	NA	NA	NA	NA	NA	NA	NA
+1076	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1081	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Capnodiaceae	Capnodium	NA
+1082	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1084	Fungi	Basidiomycota	Agaricomycetes	Agaricales	NA	NA	NA
+1087	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1088	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1091	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+1094	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	NA	NA
+1097	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Clavariaceae	Ramariopsis	Ramariopsis flavescens
+1099	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Naganishia	NA
+1100	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	NA	NA
+1102	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1103	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Ellisomyces	Ellisomyces anomalus
+1105	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1107	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1108	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1109	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces chlorolomus
+1110	Fungi	NA	NA	NA	NA	NA	NA
+1112	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+1114	Fungi	NA	NA	NA	NA	NA	NA
+1115	Fungi	NA	NA	NA	NA	NA	NA
+1117	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	NA	NA
+1119	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1120	Fungi	Ascomycota	Leotiomycetes	NA	NA	NA	NA
+1121	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1124	Fungi	NA	NA	NA	NA	NA	NA
+1126	NA	NA	NA	NA	NA	NA	NA
+1127	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Bulleraceae	NA	NA
+1130	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1131	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1132	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+1133	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1134	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1136	Fungi	NA	NA	NA	NA	NA	NA
+1137	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Agaricostilbaceae	Bensingtonia	NA
+1138	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1139	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1140	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Kalmanozyma	Kalmanozyma fusiformata
+1141	Fungi	NA	NA	NA	NA	NA	NA
+1145	Fungi	NA	NA	NA	NA	NA	NA
+1146	NA	NA	NA	NA	NA	NA	NA
+1152	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+1153	Fungi	NA	NA	NA	NA	NA	NA
+1156	Fungi	NA	NA	NA	NA	NA	NA
+1158	Fungi	NA	NA	NA	NA	NA	NA
+1159	Fungi	NA	NA	NA	NA	NA	NA
+1161	Fungi	NA	NA	NA	NA	NA	NA
+1162	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	Parastagonospora poae
+1165	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	NA	NA	NA
+1168	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1173	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Periconia	NA
+1177	NA	NA	NA	NA	NA	NA	NA
+1179	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1180	Protista	Cercozoa	NA	NA	NA	NA	NA
+1181	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1187	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Mucor	Mucor plasmaticus
+1188	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1192	Fungi	NA	NA	NA	NA	NA	NA
+1194	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	NA	Sporobolomyces	Sporobolomyces clavatus
+1195	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+1198	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	NA	NA
+1199	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1201	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1202	Fungi	NA	NA	NA	NA	NA	NA
+1203	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Protomycetaceae	Protomyces	NA
+1204	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	NA	NA	NA
+1205	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1206	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+1207	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1208	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1209	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Agaricaceae	Agaricus	Agaricus californicus
+1210	Fungi	Basidiomycota	NA	Malasseziales	Malasseziaceae	Malassezia	Malassezia restricta
+1214	Fungi	Ascomycota	Sordariomycetes	Xylariales	Amphisphaeriaceae	Pestalotiopsis	NA
+1215	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1216	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces aculeatus
+1217	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1218	Fungi	NA	NA	NA	NA	NA	NA
+1220	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1221	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1222	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1223	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1227	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Calophoma	Calophoma complanata
+1228	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1229	Fungi	NA	NA	NA	NA	NA	NA
+1231	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1232	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1233	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1235	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1236	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1238	Fungi	NA	NA	NA	NA	NA	NA
+1240	Fungi	NA	NA	NA	NA	NA	NA
+1242	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1243	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1244	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1249	Fungi	Mucoromycota	NA	Mucorales	Mucoraceae	Mucor	Mucor flavus
+1250	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1252	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Postia	NA
+1254	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	NA	NA
+1255	Protista	Cercozoa	NA	NA	NA	NA	NA
+1256	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Chionosphaeraceae	Kurtzmanomyces	NA
+1257	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Pilidium	NA
+1259	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	Didymella	Didymella fabae
+1260	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1261	Fungi	Ascomycota	Sordariomycetes	Diaporthales	Diaporthaceae	Phomopsis	NA
+1264	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1267	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+1269	Plantae	NA	NA	NA	NA	NA	NA
+1271	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Psathyrella	Psathyrella potteri
+1273	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1274	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	NA
+1276	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1277	Fungi	Basidiomycota	Agaricomycetes	Russulales	Lachnocladiaceae	Dichostereum	Dichostereum durum
+1279	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1281	Fungi	NA	NA	NA	NA	NA	NA
+1283	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1285	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1292	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1293	Fungi	Ascomycota	Dothideomycetes	Capnodiales	NA	NA	NA
+1297	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1298	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1301	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+1305	Fungi	NA	NA	NA	NA	NA	NA
+1306	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1308	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	Cadophora	NA
+1309	Fungi	NA	NA	NA	NA	NA	NA
+1310	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1315	Fungi	NA	NA	NA	NA	NA	NA
+1316	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	NA	NA
+1318	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascobolaceae	Ascobolus	Ascobolus immersus
+1319	Fungi	NA	NA	NA	NA	NA	NA
+1324	Fungi	NA	NA	NA	NA	NA	NA
+1331	Fungi	NA	NA	NA	NA	NA	NA
+1332	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1334	Fungi	NA	NA	NA	NA	NA	NA
+1335	Fungi	Ascomycota	Pezizomycetes	Pezizales	Pyronemataceae	NA	NA
+1336	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1338	Fungi	NA	NA	NA	NA	NA	NA
+1340	Fungi	NA	NA	NA	NA	NA	NA
+1341	Fungi	Basidiomycota	Microbotryomycetes	Leucosporidiales	Leucosporidiaceae	NA	NA
+1349	Fungi	NA	NA	NA	NA	NA	NA
+1352	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1361	Fungi	NA	NA	NA	NA	NA	NA
+1363	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1364	Fungi	NA	NA	NA	NA	NA	NA
+1368	Fungi	NA	NA	NA	NA	NA	NA
+1371	Fungi	NA	NA	NA	NA	NA	NA
+1372	Fungi	NA	NA	NA	NA	NA	NA
+1379	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala psychrophila
+1380	Fungi	NA	NA	NA	NA	NA	NA
+1384	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+1385	Fungi	Basidiomycota	Agaricomycetes	Corticiales	Corticiaceae	Limonomyces	NA
+1386	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Davidiellaceae	Cladosporium	NA
+1388	Fungi	Basidiomycota	Microbotryomycetes	NA	NA	NA	NA
+1389	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1390	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1391	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1394	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+1397	Fungi	Basidiomycota	Agaricomycetes	Trechisporales	Hydnodontaceae	Trechispora	NA
+1398	Fungi	NA	NA	NA	NA	NA	NA
+1399	Fungi	NA	NA	NA	NA	NA	NA
+1400	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Dacampiaceae	Teichospora	Teichospora grandicipis
+1402	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1403	Fungi	NA	NA	NA	NA	NA	NA
+1404	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1406	NA	NA	NA	NA	NA	NA	NA
+1407	Fungi	Basidiomycota	Agaricostilbomycetes	Spiculogloeales	Spiculogloeaceae	Phyllozyma	Phyllozyma linderae
+1408	Fungi	Ascomycota	Lecanoromycetes	Lecanorales	Ramalinaceae	Bacidia	Bacidia delicata
+1409	Fungi	Ascomycota	Pezizomycetes	NA	NA	NA	NA
+1410	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1411	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Drechslera	NA
+1412	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	Coprinopsis	NA
+1413	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	NA	NA
+1414	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	Acremonium	Acremonium antarcticum
+1415	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1417	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1419	Fungi	Basidiomycota	Cystobasidiomycetes	NA	NA	NA	NA
+1421	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1422	Fungi	NA	NA	NA	NA	NA	NA
+1425	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Schizophyllaceae	Schizophyllum	Schizophyllum commune
+1426	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1430	Chromista	Ciliophora	NA	NA	NA	NA	NA
+1431	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1432	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1434	Fungi	NA	NA	NA	NA	NA	NA
+1435	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1436	Fungi	Mucoromycota	NA	Mucorales	Umbelopsidaceae	Umbelopsis	NA
+1437	Fungi	NA	NA	NA	NA	NA	NA
+1438	Chromista	Ciliophora	NA	NA	NA	NA	NA
+1440	Fungi	NA	NA	NA	NA	NA	NA
+1441	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Psathyrellaceae	NA	NA
+1442	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1443	Fungi	NA	NA	NA	NA	NA	NA
+1444	Fungi	NA	NA	NA	NA	NA	NA
+1445	Fungi	Ascomycota	Sordariomycetes	Sordariales	Lasiosphaeriaceae	Podospora	Podospora longicaudata
+1446	Chromista	Ciliophora	NA	NA	NA	NA	NA
+1447	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+1448	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1449	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1450	Fungi	NA	NA	NA	NA	NA	NA
+1451	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1452	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+1454	Fungi	Basidiomycota	NA	NA	NA	NA	NA
+1456	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Hypocreaceae	Acrostalagmus	Acrostalagmus luteoalbus
+1457	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Montagnulaceae	NA	NA
+1459	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1460	Fungi	NA	NA	NA	NA	NA	NA
+1461	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1462	Plantae	Anthophyta	NA	NA	NA	NA	NA
+1464	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1465	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1466	Fungi	Basidiomycota	Agaricomycetes	Trechisporales	NA	NA	NA
+1468	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1470	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1471	Fungi	NA	NA	NA	NA	NA	NA
+1472	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Sporormiaceae	Preussia	NA
+1473	Fungi	Ascomycota	Leotiomycetes	Helotiales	NA	NA	NA
+1474	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1476	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1477	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1478	Fungi	NA	NA	NA	NA	NA	NA
+1479	Fungi	NA	NA	NA	NA	NA	NA
+1481	Fungi	Basidiomycota	Microbotryomycetes	Heterogastridiales	Heterogastridiaceae	Colacogloea	NA
+1482	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1484	Fungi	NA	NA	NA	NA	NA	NA
+1485	Fungi	Basidiomycota	Tremellomycetes	Tremellales	NA	Cryptococcus	NA
+1486	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Pochonia	NA
+1487	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1488	Fungi	Ascomycota	Pezizomycetes	Pezizales	Ascobolaceae	Ascobolus	Ascobolus immersus
+1489	Fungi	NA	NA	NA	NA	NA	NA
+1490	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1492	Fungi	NA	NA	NA	NA	NA	NA
+1494	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1497	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Torulaspora	NA
+1498	Fungi	Chytridiomycota	Chytridiomycetes	Spizellomycetales	Spizellomycetaceae	Triparticalcar	NA
+1499	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1501	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Kondoaceae	Kondoa	Kondoa aeria
+1502	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1503	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1504	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1505	Fungi	Ascomycota	Leotiomycetes	NA	NA	Chaetomella	Chaetomella raphigera
+1506	Fungi	Ascomycota	Sordariomycetes	NA	NA	Myrmecridium	Myrmecridium iridis
+1507	Fungi	Ascomycota	Pezizomycetes	Pezizales	Sarcosomataceae	NA	NA
+1513	Fungi	NA	NA	NA	NA	NA	NA
+1514	Fungi	NA	NA	NA	NA	NA	NA
+1515	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1519	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1520	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+1521	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1522	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1523	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1524	Fungi	NA	NA	NA	NA	NA	NA
+1525	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	NA	NA
+1526	NA	NA	NA	NA	NA	NA	NA
+1529	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1531	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1532	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1536	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1537	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1538	Fungi	NA	NA	NA	NA	NA	NA
+1539	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1541	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1542	Fungi	NA	NA	NA	NA	NA	NA
+1544	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1550	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1553	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1554	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1555	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1556	Fungi	NA	NA	NA	NA	NA	NA
+1558	Fungi	NA	NA	NA	NA	NA	NA
+1560	Fungi	NA	NA	NA	NA	NA	NA
+1562	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1563	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1564	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1566	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1573	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1578	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1581	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1582	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium poae
+1583	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1587	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1589	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1590	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1592	Fungi	NA	NA	NA	NA	NA	NA
+1593	Fungi	NA	NA	NA	NA	NA	NA
+1597	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1603	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1604	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	NA
+1605	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1606	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1607	Fungi	NA	NA	NA	NA	NA	NA
+1609	Plantae	NA	NA	NA	NA	NA	NA
+1611	Fungi	NA	NA	NA	NA	NA	NA
+1612	Fungi	Ascomycota	Sordariomycetes	Hypocreales	NA	NA	NA
+1613	Fungi	NA	NA	NA	NA	NA	NA
+1615	Fungi	NA	NA	NA	NA	NA	NA
+1617	Fungi	NA	NA	NA	NA	NA	NA
+1618	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1624	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	NA	NA
+1629	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1632	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1638	Fungi	NA	NA	NA	NA	NA	NA
+1640	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1644	Fungi	NA	NA	NA	NA	NA	NA
+1651	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1653	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1657	Fungi	Ascomycota	Sordariomycetes	Sordariales	NA	NA	NA
+1661	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	NA	Wickerhamomyces	NA
+1663	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1667	Fungi	Ascomycota	Dothideomycetes	NA	NA	NA	NA
+1673	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1674	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1675	Fungi	NA	NA	NA	NA	NA	NA
+1676	Fungi	NA	NA	NA	NA	NA	NA
+1680	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1681	Fungi	NA	NA	NA	NA	NA	NA
+1682	Fungi	Ascomycota	Sordariomycetes	NA	NA	NA	NA
+1685	Fungi	NA	NA	NA	NA	NA	NA
+1689	Fungi	NA	NA	NA	NA	NA	NA
+1692	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1694	Fungi	Mucoromycota	NA	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca
+1695	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1698	Fungi	NA	NA	NA	NA	NA	NA
+1699	Fungi	NA	NA	NA	NA	NA	NA
+1701	Fungi	Ascomycota	Dothideomycetes	Pleosporales	NA	NA	NA
+1703	Fungi	NA	NA	NA	NA	NA	NA
+1704	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1706	Fungi	Ascomycota	NA	NA	NA	NA	NA
+1712	Fungi	NA	NA	NA	NA	NA	NA
+1716	Fungi	Mucoromycota	NA	Mortierellales	Mortierellaceae	Mortierella	NA
+1717	Fungi	Ascomycota	NA	NA	NA	NA	NA
