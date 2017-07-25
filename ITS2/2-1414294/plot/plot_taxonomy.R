@@ -30,6 +30,9 @@ TAX <- head(TAX,n=120L)
 phylo = phyloseq(OTU, TAX,sampleData)
 phylo
 
+total = median(sample_sums(phylo))
+standf = function(x, t=total) round(t * (x / sum(x)))
+phylostand = transform_sample_counts(phylo, standf)
 
 phylum <- phylo %>%
   tax_glom(taxrank = "Phylum") %>%                     # agglomerate at phylum level
@@ -45,6 +48,8 @@ phylum_colors <- c(
 )
 
 pdf("Phyla_plot.pdf")
+
+
 ggplot(phylum, aes(x = factor(SampleAge), y = Abundance, fill = Phylum)) + 
   geom_bar(stat = "identity") +
   scale_fill_manual(values = phylum_colors) +
@@ -74,7 +79,10 @@ genus <- phylo %>%
 #  filter(Abundance > 0.02) %>%                         # Filter out low abundance taxa
   arrange(Genus)                                      # Sort data frame alphabetically by phylum
 
-ggplot(class, aes(x = factor(SampleAge), y = Abundance, fill = Class)) + 
+plot_bar(phylostand, "Phylum", fill="Class",facet_grid=~SampleAge)
+plot_bar(phylostand, "Phylum", fill="Class",facet_grid=~PelletGroup)
+
+ggplot(class, aes(x = Sample, y = Abundance, fill = Class,facet_grid=SampleAge)) + 
   geom_bar(stat = "identity") +
   scale_fill_manual(values = phylum_colors) +
 #  scale_x_discrete(
@@ -97,7 +105,7 @@ ggplot(class, aes(x = factor(PelletGroup), y = Abundance, fill = Class)) +
   #
   guides(fill = guide_legend(reverse = TRUE, keywidth = 1, keyheight = 1)) +
     xlab("Pellet Group") + ylab("Relative Abundance (Class > 2%) \n") +
-  ggtitle("Genus Composition of Dung Pellets") 
+  ggtitle("Class Composition of Dung Pellets") 
 
 
 ggplot(class, aes(x = Sample, y = Abundance, fill = Class)) + 
@@ -108,3 +116,13 @@ ggplot(class, aes(x = Sample, y = Abundance, fill = Class)) +
   guides(fill = guide_legend(reverse = TRUE, keywidth = 1, keyheight = 1)) +
     xlab("Sample") + ylab("Relative Abundance (Class > 2%) \n") +
   ggtitle("Class Composition of Dung Pellets") 
+
+ggplot(genus, aes(x = Sample, y = Abundance, fill = Class)) + 
+  geom_bar(stat = "identity") +
+  scale_fill_manual(values = phylum_colors) +
+  theme( axis.text.x = element_text(angle = 60, hjust = 1)) + 
+  #
+  guides(fill = guide_legend(reverse = TRUE, keywidth = 1, keyheight = 1)) +
+    xlab("Sample") + ylab("Relative Abundance (Class > 2%) \n") +
+  ggtitle("Genus Composition of Dung Pellets order by Pellet") 
+
